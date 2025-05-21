@@ -1,0 +1,259 @@
+{
+  "route": [
+    "yerba_buena_cove",
+    "portsmouth_square",
+    "old_st_marys_cathedral",
+    "jackson_square",
+    "barbary_coast_trail_marker",
+    "old_ship_saloon",
+    "pacific_union_club",
+    "sf_mint"
+  ],
+  "stops": [
+    {
+      "poi_id": "yerba_buena_cove",
+      "name": "Yerba Buena Cove Site",
+      "address": "Montgomery St & Clay St, San Francisco, CA 94111",
+      "search_hint": "Yerba Buena Cove historical site, San Francisco",
+      "alternative_names": [
+        "Yerba Buena",
+        "Old Waterfront"
+      ],
+      "theme": {
+        "theme_name": "Gold Rush",
+        "cluster_hint": "Early coastline",
+        "type": "primary",
+        "narration_score": 5,
+        "note": "This was San Francisco\u2019s original shoreline, the heart of the 1850s boom.",
+        "teaser": "Where it all started"
+      },
+      "coordinates": {
+        "lat": 37.7946757,
+        "lon": -122.4031652
+      }
+    },
+    {
+      "poi_id": "portsmouth_square",
+      "name": "Portsmouth Square",
+      "alternative_names": [
+        "Old Plaza",
+        "First Public Square"
+      ],
+      "search_hint": "Portsmouth Square, San Francisco",
+      "coordinates": {
+        "lat": 37.794774,
+        "lon": -122.405266
+      },
+      "address": "733 Kearny St, San Francisco, CA 94108",
+      "address_status": {
+        "confidence_level": "high",
+        "source": "Google Maps",
+        "reason": "Verified current address"
+      },
+      "theme": {
+        "theme_name": "Gold Rush",
+        "cluster_hint": "Civic heart",
+        "type": "primary",
+        "narration_score": 5,
+        "note": "The civic heart where proclamations were made and fortunes paraded.",
+        "teaser": "From dusty plaza to city center"
+      },
+      "validation": {
+        "status": null,
+        "recheck_reasons": [],
+        "drop_reasons": [],
+        "outlier_flag": false,
+        "name_match_score": 0.872,
+        "token_match_fraction": 1.0,
+        "address_match_score": 0.791
+      }
+    },
+    {
+      "poi_id": "old_st_marys_cathedral",
+      "name": "Old St. Mary\u2019s Cathedral",
+      "alternative_names": [
+        "Old St. Mary\u2019s Church"
+      ],
+      "search_hint": "Old St. Mary's Cathedral, San Francisco",
+      "coordinates": {
+        "lat": 37.7928619,
+        "lon": -122.4058515
+      },
+      "address": "660 California St, San Francisco, CA 94108",
+      "address_status": {
+        "confidence_level": "high",
+        "source": "Google Maps",
+        "reason": "Modern address confirmed"
+      },
+      "theme": {
+        "theme_name": "Gold Rush",
+        "cluster_hint": "Spiritual life",
+        "type": "secondary",
+        "narration_score": 4,
+        "note": "Built in 1854, it witnessed the highs and sins of miners seeking redemption.",
+        "teaser": "The church that saw it all"
+      },
+      "validation": {
+        "status": null,
+        "recheck_reasons": [],
+        "drop_reasons": [],
+        "outlier_flag": false,
+        "name_match_score": 0.88,
+        "token_match_fraction": 0.8,
+        "address_match_score": 0.848
+      }
+    },
+    {
+      "poi_id": "jackson_square",
+      "name": "Jackson Square Historic District",
+      "alternative_names": [
+        "Jackson Square"
+      ],
+      "search_hint": "Jackson Square Historic District, San Francisco",
+      "coordinates": {
+        "lat": 37.796431,
+        "lon": -122.4035241
+      },
+      "address": "Jackson St & Montgomery St, San Francisco, CA 94111",
+      "address_status": {
+        "confidence_level": "high",
+        "source": "Google Maps",
+        "reason": "Modern mapping verified"
+      },
+      "theme": {
+        "theme_name": "Gold Rush",
+        "cluster_hint": "Commercial hub",
+        "type": "primary",
+        "narration_score": 5,
+        "note": "Packed with Gold Rush-era brick buildings and saloons, surviving 1906 fires.",
+        "teaser": "Where miners got drunk, deals were struck"
+      },
+      "validation": {
+        "status": "recheck",
+        "recheck_reasons": [
+          "name-address mismatch"
+        ],
+        "drop_reasons": [],
+        "outlier_flag": false,
+        "name_match_score": 1.0,
+        "token_match_fraction": 1.0,
+        "address_match_score": 0.674
+      }
+    },
+    {
+      "poi_id": "barbary_coast_trail_marker",
+      "name": "Barbary Coast Trail Marker",
+      "address": "Jackson St & Montgomery St, San Francisco, CA 94111",
+      "search_hint": "Barbary Coast Trail marker at Jackson & Montgomery, San Francisco",
+      "alternative_names": [
+        "Barbary Coast Trail"
+      ],
+      "theme": {
+        "theme_name": "Gold Rush",
+        "cluster_hint": "Rowdy underworld",
+        "type": "secondary",
+        "narration_score": 4,
+        "note": "The notorious red-light district fueled by gold riches.",
+        "teaser": "Whiskey, crime, and rebellion"
+      },
+      "coordinates": {
+        "lat": 37.796431,
+        "lon": -122.4035241
+      }
+    },
+    {
+      "poi_id": "old_ship_saloon",
+      "name": "Old Ship Saloon",
+      "address": "298 Pacific Ave, San Francisco, CA 94111",
+      "search_hint": "Old Ship Saloon, San Francisco",
+      "alternative_names": [
+        "Old Ship Saloon"
+      ],
+      "theme": {
+        "theme_name": "Gold Rush",
+        "cluster_hint": "Commerce and banking",
+        "type": "secondary",
+        "narration_score": 4,
+        "note": "Historic saloon built atop a Gold Rush-era ship hull.",
+        "teaser": "Where sailors and miners drank together"
+      },
+      "coordinates": {
+        "lat": 37.7978382,
+        "lon": -122.4007776
+      },
+      "validated_by": "script",
+      "validation_status": "keep",
+      "status_reason": "name_match_score=0.88",
+      "distance_to_centroid_m": 455
+    },
+    {
+      "poi_id": "pacific_union_club",
+      "name": "Pacific-Union Club",
+      "address": "1000 California St, San Francisco, CA 94108",
+      "search_hint": "Pacific-Union Club, San Francisco",
+      "alternative_names": [
+        "Pacific Union Club",
+        "Pacific-Union Club"
+      ],
+      "theme": {
+        "theme_name": "Gold Rush",
+        "cluster_hint": "Elite society",
+        "type": "supporting",
+        "narration_score": 3,
+        "note": "Reflects how gold built San Francisco\u2019s elite class.",
+        "teaser": "Where fortunes turned into influence"
+      },
+      "coordinates": {
+        "lat": 37.7923015,
+        "lon": -122.411464
+      },
+      "validated_by": "script",
+      "validation_status": "keep",
+      "status_reason": "name_match_score=0.90",
+      "distance_to_centroid_m": 668
+    },
+    {
+      "poi_id": "sf_mint",
+      "name": "Old San Francisco Mint",
+      "alternative_names": [
+        "The Granite Lady",
+        "Old Mint"
+      ],
+      "search_hint": "Old San Francisco Mint, San Francisco",
+      "coordinates": {
+        "lat": 37.7827662,
+        "lon": -122.4071276
+      },
+      "address": "88 5th St, San Francisco, CA 94103",
+      "address_status": {
+        "confidence_level": "high",
+        "source": "Google Maps",
+        "reason": "Modern address verified"
+      },
+      "theme": {
+        "theme_name": "Gold Rush",
+        "cluster_hint": "Money hub",
+        "type": "primary",
+        "narration_score": 5,
+        "note": "Where the Gold Rush\u2019s raw gold was turned into U.S. currency.",
+        "teaser": "The Granite Lady who guarded the gold"
+      },
+      "validation": {
+        "status": null,
+        "recheck_reasons": [],
+        "drop_reasons": [],
+        "outlier_flag": false,
+        "name_match_score": 0.864,
+        "token_match_fraction": 0.75,
+        "address_match_score": 0.819
+      }
+    }
+  ],
+  "tour_metadata": {
+    "stop_count": 8,
+    "total_distance_km": 3.39,
+    "total_walking_minutes": 41,
+    "estimated_tour_duration_min": 121,
+    "effort_level": "moderate"
+  }
+}
