@@ -1,0 +1,32 @@
+[
+  {
+    "poi_id": "hyde-street-pier",
+    "name": "Hyde Street Pier",
+    "address": "499 Jefferson St , San Francisco, CA 94109",
+    "type": "museum",
+    "reasons": [
+      "closed_permanently_landmark_override"
+    ],
+    "alt_names": [
+      "San Francisco Maritime National Historical Park (Hyde Street Pier / Visitor Center)",
+      "San Francisco Maritime NHP",
+      "Hyde Street Pier (San Francisco Maritime National Historical Park)"
+    ],
+    "refined_attempts": 0,
+    "refined_last_address": "499 Jefferson St , San Francisco, CA 94109"
+  },
+  {
+    "poi_id": "golden-era-building",
+    "name": "Golden Era Building",
+    "address": "732-734 Montgomery St, San Francisco, CA 94111",
+    "type": "building",
+    "reasons": [
+      "closed_permanently_landmark_override"
+    ],
+    "alt_names": [
+      "Golden Era / Call Building (Jackson Square)"
+    ],
+    "refined_attempts": 0,
+    "refined_last_address": "732-734 Montgomery St, San Francisco, CA 94111"
+  }
+]

@@ -1,0 +1,78 @@
+{
+  "last_updated": "2025-08-19T23:24:59Z",
+  "counts_by_status": {
+    "keep": 6,
+    "raw": 1,
+    "recheck": 2,
+    "drop": 2
+  },
+  "total_pois": 11,
+  "merged_selection_runs": [
+    "2025-08-12T00:42:39Z_san-francisco_gold-rush",
+    "2025-08-12T00:43:06Z_san-francisco_gold-rush",
+    "2025-08-12T00:43:32Z_san-francisco_gold-rush"
+  ],
+  "merged_refine_batches": [],
+  "top_confidence_sample": [
+    {
+      "poi_id": "portsmouth-square-park",
+      "name": "Portsmouth Square Park",
+      "confidence": 1.0,
+      "consensus": "unanimous"
+    },
+    {
+      "poi_id": "the-san-francisco-mint",
+      "name": "The San Francisco Mint",
+      "confidence": 1.0,
+      "consensus": "unanimous"
+    },
+    {
+      "poi_id": "jackson-square",
+      "name": "Jackson Square",
+      "confidence": 0.8567,
+      "consensus": "unanimous"
+    },
+    {
+      "poi_id": "ferry-building",
+      "name": "Ferry Building",
+      "confidence": 0.6833,
+      "consensus": "single"
+    },
+    {
+      "poi_id": "old-saint-marys-cathedral",
+      "name": "Old Saint Mary's Cathedral",
+      "confidence": 0.5433,
+      "consensus": "single"
+    },
+    {
+      "poi_id": "the-old-ship-saloon",
+      "name": "The Old Ship Saloon",
+      "confidence": 0.3883,
+      "consensus": "single"
+    },
+    {
+      "poi_id": "lottas-fountain",
+      "name": "Lotta's Fountain",
+      "confidence": 0.0,
+      "consensus": "single"
+    },
+    {
+      "poi_id": "barbary-coast-trail",
+      "name": "Barbary Coast Trail (medallion route)",
+      "confidence": 0.7717,
+      "consensus": "majority"
+    },
+    {
+      "poi_id": "hyde-street-pier",
+      "name": "Hyde Street Pier (San Francisco Maritime National Historical Park)",
+      "confidence": 0.7467,
+      "consensus": "majority"
+    },
+    {
+      "poi_id": "wells-fargo-history-museum",
+      "name": "Wells Fargo History Museum",
+      "confidence": 0.4383,
+      "consensus": "single"
+    }
+  ]
+}

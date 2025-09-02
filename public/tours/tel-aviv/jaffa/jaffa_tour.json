@@ -1,0 +1,119 @@
+{
+  "tour_id": "jaffa_history",
+  "title": "Jaffa History and Legends",
+  "city": "Tel Aviv-Yafo",
+  "description": "Embark on a mesmerizing journey through Jaffa, where ancient stones whisper legends and bohemian spirit colors every corner. From biblical port to artist enclave, follow the winding lanes where conquerors, dreamers, rebels, and visionaries collided, revealing the soul of Tel Aviv’s twin heart. Expect myth, mystery, and moments that shaped a city—and the world.",
+  "mode": "walking",
+  "effort_level": "moderate",
+  "stop_count": 9,
+  "total_walking_minutes": 75,
+  "total_distance_km": 5.25,
+  "estimated_tour_duration_min": 165,
+  "greeting_audio": "audio/greetings/universal_greeting.mp3",
+  "instructions_audio": "audio/greetings/universal_instructions.mp3",
+  "stops": [
+    {
+      "poi_id": "jaffa_port",
+      "name": "Jaffa Port",
+      "lat": 32.0536111,
+      "lng": 34.7491667,
+      "address": "Jaffa Port, Tel Aviv-Yafo, Israel",
+      "teaser": "Step onto the stones where Jonah set sail and Napoleon stormed ashore—a living port of myth, trade, and transformation.",
+      "narration_audio": "audio/stops/jaffa_port.mp3",
+      "narration_text": "Alright, gather around—watch your step, these stones have seen more drama than a soap opera. We’re standing at Jaffa Port, one of the oldest working harbors in the world. If these docks could talk, you’d get more plot twists than Netflix. Let’s kick things off with a story that’s been retold for over 2,500 years—Jonah’s little misadventure. According to the Hebrew Bible, Jonah—Yonah in Hebrew—was told by God to go preach in Nineveh. He wasn’t exactly thrilled about the assignment. So, what does he do? He heads down to this very port, books passage on a ship bound for Tarshish—probably somewhere in Spain or southern Italy, historians still argue about the details. The point is, Jonah was running away from his responsibilities. [pause] Of course, the story goes, a storm hits, the sailors panic, Jonah admits he’s the problem, and they toss him overboard. Then, he’s swallowed by a “great fish”—not a whale, the original Hebrew says “dag gadol”—and he spends three days in the belly of the beast before getting spat out, ready to face his destiny. So, next time you’re tempted to dodge a tough job, remember: the universe has creative ways of reeling you back in. But the real, historical drama here goes way further back. The earliest written mention of Jaffa comes from the Egyptians. In 1468 BCE, Pharaoh Thutmose the Third—think of him as Egypt’s Alexander the Great—was on a conquering spree. According to Egyptian records, he took Jaffa by trickery. There’s a papyrus that tells how Egyptian soldiers hid inside baskets—yes, like a Trojan horse situation, but with laundry hampers. They were smuggled into the city, popped out, and opened the gates for the main army. It worked. Jaffa was too strategic to leave alone—a deep-water port, a natural break in the cliffs, and a gateway to the land routes inland. Control Jaffa, and you controlled trade and military access into Canaan. Fast forward to 1799, and here comes Napoleon Bonaparte. By this point, Jaffa’s seen Persians, Greeks, Romans, Byzantines, Arabs, Crusaders, Mamluks, Ottomans—you get the idea. Napoleon’s campaign in Egypt and Syria brought him here. His troops stormed the city walls—right about where the old gate is, behind you. The French were ruthless; after the city fell, they executed thousands of prisoners. Then, plague broke out. Napoleon famously visited the sick in the Armenian hospice, supposedly to show he wasn’t afraid. Some say it was bravado for propaganda; others say he wanted to rally his men. Either way, it didn’t save his campaign. The siege left a deep scar—locals still tell stories about “Napoleon’s plague.” For centuries under the Ottomans, Jaffa Port was the main entry point for pilgrims heading to Jerusalem. You’d arrive here by boat, then hire a mule or a carriage for the 65-kilometer trek up to the Holy City. The journey was not exactly five-star—mud, bandits, and more mud—but it was the classic route for Christian, Jewish, and Muslim pilgrims alike. The Ottomans taxed the goods and the travelers, and the city grew rich off the traffic. You can still see Ottoman-era warehouses, now home to galleries and cafés. When the British took over after World War I, Jaffa became a hub for Jewish immigration. In the 1920s and ‘30s, thousands of refugees fleeing Europe landed here. Some arrived legally, many more in secret—dodging British patrols, hiding in the orange groves. The port was chaotic: stevedores yelling in Arabic, Yiddish, Russian, Hebrew; families clutching battered suitcases, terrified and hopeful. The British tried to control the flow, but desperation always found a way. Then, in 1936, things changed. The Arab Revolt led to violence, and the British built a new, modern port up the coast—Tel Aviv’s harbor. Overnight, Jaffa’s trade dried up. The old port was left to fishermen, a few traders, and a lot of stray cats. But the bones of the place—the stone quays, the ancient warehouses—remained. Today, you’ll see the port’s latest reinvention. Fishing boats bob alongside fancy seafood restaurants. Artists have taken over the old storage rooms. There’s a certain charm to it—a mix of salt air, grilled fish, and paint thinner. And if you look out to sea, you’ll spot Andromeda Rock. According to Greek myth, that’s where Andromeda was chained as a sea monster snack, until Perseus swooped in. Sailors have used that rock for navigation for thousands of years. [pause] It’s a reminder that here, myth and history are always tangled together. So, next time you tuck into a plate of fresh fish, or snap a photo of the sunset, just remember—you’re sharing the view with prophets, pharaohs, conquerors, and a couple of sea monsters. Not bad for a day at the port.",
+      "images": []
+    },
+    {
+      "poi_id": "ilana_goor_museum",
+      "name": "Ilana Goor Museum",
+      "lat": 32.0533624,
+      "lng": 34.7514649,
+      "address": "Mazal Dagim St 4, Tel Aviv-Yafo, Israel",
+      "teaser": "A fortress of art and eccentricity: discover a collection as wild and storied as Jaffa itself.",
+      "narration_audio": "audio/stops/ilana_goor_museum.mp3",
+      "narration_text": "Let’s head inside this striking stone building. You might notice the thick, rough walls—about 80 centimeters deep, built from local kurkar (pronounced koor-kar), a type of soft sandstone you find all along this coast. This place is now the Ilana Goor Museum, but its story stretches back over 270 years. [pause] It’s seen more costume changes than a theater troupe.\n\nLet’s start with the building itself. In the 18th century, Jaffa was a key port for pilgrims heading to Jerusalem. Jewish travelers from North Africa, Europe, and the Middle East would disembark here, dusty and seasick, and look for a safe place to spend the night before heading inland. This building was their inn—a khan, as it was called. Imagine the scene: camels outside, families crammed into shared rooms, the smell of sea air mixing with wood smoke and the tang of citrus from nearby groves. Most folks stayed just a night or two, but for some, this was their first taste of the Land of Israel. There are old traveler’s diaries that mention “the sturdy hostel by the port, with thick walls against the wind and a rooftop view of the blue sea.” It was basic, but it was a start.\n\nJaffa’s fortunes rose and fell with history’s tides. During the British Mandate, starting in 1917, the building’s role changed completely. The British were all about order and efficiency—at least, that was the theory. This place became a warehouse and then an olive oil soap factory. Soap from Jaffa was famous—exported to Egypt, Turkey, even France. The process was anything but glamorous. Workers stirred vats of hot olive oil, lye, and salt, sweating in the humid air, the scent of soap mixing with the sea. Pay was low, hours were long, but for many Arab and Jewish families, this was steady work. The factory survived riots, strikes, and economic crashes. When the soap market collapsed in the 1930s, the building was abandoned—just another relic in a port city full of ghosts.\n\nFast forward to the 1970s. Jaffa was run-down, its old buildings cheap and mostly ignored. Enter Ilana Goor. Born in 1936 in Tiberias, up north by the Sea of Galilee, Ilana grew up in a family of doctors and teachers. But she had her own ideas. She once said, “I never wanted to fit in. I wanted to create my own world.” She started out designing jewelry—her big break came when her metalwork caught the eye of buyers in Los Angeles. Soon, her pieces were in galleries from New York to Tokyo. But Ilana was restless. She sculpted, painted, collected. She traveled through Africa, India, Europe, picking up art, masks, oddities, and stories.\n\nIn 1983, Ilana stumbled on this crumbling building. Most saw a ruin; she saw a home—and a future museum. She spent years restoring it, pouring in millions of dollars (today’s equivalent: over $10 million) of her own money. She kept the thick stone walls, the arched ceilings, the uneven floors. She filled it with her own sculptures—welded iron, twisted into animals and human forms—and the art she’d collected: African tribal masks, contemporary Israeli ceramics, antique French furniture. The museum opened in 1995, a wild mix of old and new, high and low. “I wanted a place,” she said, “where art could breathe.”\n\nToday, the museum is both a home and a gallery. Ilana still lives upstairs—if you catch a glimpse of wild curls and paint-splattered clothes, that’s her. She hosts artists-in-residence, curates rotating exhibits, and sometimes gives impromptu tours herself. The rooftop is a highlight: take a look at the view. You can see the port, the minarets of old Jaffa, and, on a clear day, the towers of Tel Aviv. Seagulls wheel overhead, and you get that briny tang of the Mediterranean.\n\nThe museum’s collection is famously eclectic. There’s a 19th-century Italian sideboard next to a life-size welded steel goat. One corner has Ethiopian crosses, another has a kinetic sculpture by Israeli artist Yaacov Agam. Ilana says, “I collect what moves me, not what’s fashionable.” Some critics have called the place chaotic. She shrugs: “That’s life. Art should be alive, not a mausoleum.”\n\nThis building, like Jaffa itself, is a blend of histories—pilgrims, workers, artists, dreamers. If you listen closely, you can almost hear the echoes: the footsteps of travelers, the clang of soap vats, the laughter of artists. It’s a reminder that old stones can always find new stories. [pause] And as for Ilana—she’s still adding chapters, one sculpture at a time.",
+      "images": []
+    },
+    {
+      "poi_id": "suspended_orange_tree",
+      "name": "Suspended Orange Tree",
+      "lat": 32.053105,
+      "lng": 34.7529362,
+      "address": "HaTsorfim St 2, Tel Aviv-Yafo, Israel",
+      "teaser": "A surreal symbol of longing and hope: an orange tree floats midair, rooted in Jaffa’s tangled past and dreams.",
+      "narration_audio": "audio/stops/suspended_orange_tree.mp3",
+      "narration_text": "Alright, everyone, gather in a bit closer. Take a look at this orange tree—not just any orange tree, but one hanging mid-air in a huge clay pot, suspended by thick iron chains. It’s not magic. It’s an artwork by Ran Morin, installed here in 1993. [pause] Some folks call it “The Suspended Orange Tree.” Ran Morin, by the way, is an Israeli artist known for mixing nature and sculpture in slightly mind-bending ways. He once said he wants to make us stop and think about our relationship with nature, and this piece really does that.\n\nNow, let’s talk oranges. Jaffa and oranges go together like hummus and pita. But this tree isn’t just a nod to local fruit—it’s a living memory of Jaffa’s glory days as the orange capital of the world. Back in the 1930s, Jaffa oranges—specifically the ‘shamouti’ [sha-moo-tee] variety—were basically the gold standard. Thick skin, sweet flavor, survived long sea voyages. Exported in wooden crates with those iconic Jaffa labels, these oranges made their way to Europe, Russia, even as far as America. At its peak, over 15,000 hectares—imagine about 20,000 soccer fields—of orange groves spread around Jaffa and the surrounding villages. Citrus was the lifeblood here. [pause] It kept families fed, built schools, and paid for weddings.\n\nThe ‘shamouti’ orange wasn’t just a fruit. It was a brand—one of the first modern agricultural brands from this region. And it was a source of pride, especially for the Arab Palestinian community, who owned and ran most of the groves and packing houses. You can find old photos of local workers—some in traditional dress, some in suits—posing with stacks of wooden crates, stamped ‘JAFFA.’ The city was famous for it. There’s a saying: “If you want to see paradise, go to Jaffa in the spring.”\n\nBut, as you might guess, paradise didn’t last. The turning point came in 1948, with the Arab-Israeli war and the creation of the State of Israel. The fighting, displacement, and chaos of that year led to the uprooting—sometimes literally—of the Arab citrus industry. Many owners fled or were expelled. Groves were abandoned or taken over. The name ‘Jaffa orange’ survived, but the community that built the industry was scattered. [long pause] There’s a quiet heartbreak in that. Some say the floating tree here is about that sense of loss—roots dangling, not quite touching the ground.\n\nLet’s talk about the artwork itself for a second. The tree is a real, living orange tree, planted in a giant terra cotta pot about a meter wide. It’s hung from steel chains anchored into the old stone wall behind it. The pot doesn’t touch the earth—the roots are visible, exposed, almost vulnerable. It’s a bit surreal, almost dreamlike, but not in a way that lets you escape. Morin’s message is pretty direct: This is what happens when roots can’t find soil. Displacement, longing, and the struggle to survive in midair. [pause] It’s a symbol that hits home for a lot of people, even if they’ve never seen an orange grove.\n\nToday, the tree’s become a bit of a celebrity. You’ll see people snapping selfies, wedding couples posing, kids craning their necks to see if the fruit is real. It’s a piece of public art that’s managed to stay relevant, even as the city changes around it. And it’s a reminder that history here isn’t just in the museums—it’s hanging, quite literally, above our heads.\n\nIf you wander these alleyways, you’ll notice their names: Pisces, Leo, Aquarius. These are the Zodiac Alleys, a quirky little detail from the 1990s, when the area was redeveloped. The idea was to celebrate Jaffa’s multicultural roots—Arabs, Jews, Greeks, Armenians, all living side by side, sometimes not so peacefully, but always together. Even the street names are a patchwork, just like the city itself.\n\nSo, next time you see an orange, remember: it’s not just a fruit. Here, it’s a story—of growth, loss, and maybe, a little bit of hope hanging by a thread. [pause] Alright, let’s keep moving—there’s more history just around the corner.",
+      "images": []
+    },
+    {
+      "poi_id": "jaffa_clock_tower",
+      "name": "Jaffa Clock Tower",
+      "lat": 32.0549437,
+      "lng": 34.756279,
+      "address": "Yefet St 14, Tel Aviv-Yafo, Israel",
+      "teaser": "Where Ottoman ambition and modernity meet. Begin your journey beneath the timeless gaze of Jaffa’s iconic clock.",
+      "narration_audio": "audio/stops/jaffa_clock_tower.mp3",
+      "narration_text": "",
+      "images": []
+    },
+    {
+      "poi_id": "jaffa_flea_market",
+      "name": "Jaffa Flea Market",
+      "lat": 32.0530805,
+      "lng": 34.7567676,
+      "address": "Olei Zion St, Tel Aviv-Yafo, Israel",
+      "teaser": "Lose yourself in a labyrinth of treasures and tales, where every object and aroma echoes Jaffa’s bohemian rebirth.",
+      "narration_audio": "audio/stops/jaffa_flea_market.mp3",
+      "narration_text": "",
+      "images": []
+    },
+    {
+      "poi_id": "st_peters_church_jaffa",
+      "name": "St. Peter's Church",
+      "lat": 32.0547157,
+      "lng": 34.7521403,
+      "address": "Kikar Kedumim 1, Tel Aviv-Yafo, Israel",
+      "teaser": "A beacon for pilgrims and conquerors: legends of prophets, popes, and pirates swirl in these sacred halls.",
+      "narration_audio": "audio/stops/st_peters_church_jaffa.mp3",
+      "narration_text": "",
+      "images": []
+    },
+    {
+      "poi_id": "andromeda_rock",
+      "name": "Andromeda Rock",
+      "lat": 32.0566667,
+      "lng": 34.7508333,
+      "address": "Andromeda Rock, Tel Aviv-Yafo, Israel",
+      "teaser": "Gaze out to sea and imagine a chained princess, a sea monster, and a hero’s rescue—Greek myth meets Jaffa’s horizon.",
+      "narration_audio": "audio/stops/andromeda_rock.mp3",
+      "narration_text": "",
+      "images": []
+    },
+    {
+      "poi_id": "mahmediya_mosque",
+      "name": "Mahmoudiya Mosque",
+      "lat": 32.0549471,
+      "lng": 34.7555387,
+      "address": "Ruslan St 4, Tel Aviv-Yafo, Israel",
+      "teaser": "A story in stone: hear the echoes of Mamluks, Ottomans, and today’s faithful in Jaffa’s grandest mosque.",
+      "narration_audio": "audio/stops/mahmediya_mosque.mp3",
+      "narration_text": "",
+      "images": []
+    },
+    {
+      "poi_id": "abrasha_park",
+      "name": "Abrasha Park",
+      "lat": 32.0541555,
+      "lng": 34.7531952,
+      "address": "Segev St 294, Tel Aviv-Yafo, Israel",
+      "teaser": "End atop the city, where ancient stones and modern skylines converge—a view over centuries and possibilities.",
+      "narration_audio": "audio/stops/abrasha_park.mp3",
+      "narration_text": "",
+      "images": []
+    }
+  ],
+  "dynamic_summary_audio": "audio/dynamic/summary_jaffa.mp3",
+  "dynamic_summary_text": "",
+  "thank_you_audio": "audio/greetings/universal_thank_you.mp3",
+  "promo_message": "Ready for more? Explore our Tel Aviv or Jerusalem tours next for a deeper journey."
+}

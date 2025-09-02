@@ -1,0 +1,468 @@
+{
+  "runs": [
+    {
+      "run_id": "2025-08-23T00:06:54Z_san-francisco_gold-rush",
+      "pass": "A",
+      "prompt_version": "10",
+      "model": "gpt-5-mini",
+      "timestamp": "2025-08-23T00:06:54Z",
+      "inputs": {
+        "city": "San Francisco",
+        "tour_title": "Gold Rush",
+        "max_stops": 9
+      },
+      "pois": [
+        {
+          "name": "Old United States Mint (The Granite Lady)",
+          "alt_names": [
+            "Old San Francisco Mint",
+            "The Granite Lady"
+          ],
+          "address": "88 5th St, San Francisco, CA 94103",
+          "type": "building",
+          "importance": "primary",
+          "narration_score": 5,
+          "teaser": "Survivor of the 1906 earthquake and the federal coin-producing heart of Gold Rush California.",
+          "sources": [
+            "https://noehill.com/sf/landmarks/sf236.asp",
+            "https://en.wikipedia.org/wiki/Old_San_Francisco_Mint",
+            "https://development.usmint.gov/learn/history/historical-documents/restoration-of-old-san-francisco-mint-completed"
+          ],
+          "poi_id": "old-united-states-mint-the-granite-lady"
+        },
+        {
+          "name": "Jackson Square Historic District",
+          "alt_names": [
+            "Jackson Square"
+          ],
+          "address": "Roughly bounded by Broadway, Sansome St., Washington St., and Columbus Ave., San Francisco, CA 94111",
+          "type": "site",
+          "importance": "primary",
+          "narration_score": 5,
+          "teaser": "The densest surviving cluster of Gold Rush–era commercial buildings — a compact neighborhood of 1850s brick and Italian/",
+          "sources": [
+            "https://en.wikipedia.org/wiki/Jackson_Square%2C_San_Francisco",
+            "https://www.sfchronicle.com/sf/article/jackson-square-neighborhood-sf-20242260.php",
+            "https://barbarycoasttrail.org/the-trail/"
+          ],
+          "poi_id": "jackson-square-historic-district"
+        },
+        {
+          "name": "Golden Era Building",
+          "alt_names": [
+            "Golden Era / Call Building (Jackson Square)"
+          ],
+          "address": "732-734 Montgomery St, San Francisco, CA 94111",
+          "type": "building",
+          "importance": "secondary",
+          "narration_score": 4,
+          "teaser": "An intact 1852 Gold Rush–era commercial building within Jackson Square, once home to the literary paper The Golden Era.",
+          "sources": [
+            "https://en.wikipedia.org/wiki/Golden_Era_Building",
+            "https://sfgov.org/ (San Francisco designated landmarks listings)"
+          ],
+          "poi_id": "golden-era-building"
+        },
+        {
+          "name": "The Old Ship Saloon",
+          "alt_names": [
+            "Old Ship Alehouse"
+          ],
+          "address": "298 Pacific Ave, San Francisco, CA 94111",
+          "type": "other",
+          "importance": "hidden_gem",
+          "narration_score": 4,
+          "teaser": "A famed 1850s watering hole reportedly built over the buried hull of a ship — a colorful Barbary Coast relic.",
+          "sources": [
+            "https://en.wikipedia.org/wiki/The_Old_Ship_Saloon",
+            "https://barbarycoasttrail.org/the-trail/"
+          ],
+          "poi_id": "the-old-ship-saloon"
+        },
+        {
+          "name": "Portsmouth Square",
+          "alt_names": [
+            "Portsmouth Plaza",
+            "Plaza de Yerba Buena"
+          ],
+          "address": "Washington St & Kearny St (block bounded by Kearny, Washington, Clay, and Walter U Lum Pl), San Francisco, CA 94111",
+          "type": "park",
+          "importance": "primary",
+          "narration_score": 5,
+          "teaser": "San Francisco's original public square and the civic center during the Gold Rush era — where early announcements, courts",
+          "sources": [
+            "https://en.wikipedia.org/wiki/Portsmouth_Square",
+            "https://noehill.com/sf/landmarks/landmark119.asp"
+          ],
+          "poi_id": "portsmouth-square"
+        },
+        {
+          "name": "San Francisco Maritime National Historical Park (Hyde Street Pier / Visitor Center)",
+          "alt_names": [
+            "Hyde Street Pier",
+            "San Francisco Maritime NHP"
+          ],
+          "address": "499 Jefferson St (Visitor Center) / Corner of Jefferson & Hyde (Hyde Street Pier), San Francisco, CA 94109",
+          "type": "museum",
+          "importance": "primary",
+          "narration_score": 5,
+          "teaser": "Where Gold Rush-era shipping, the waterfront and historic vessels converge — the maritime gateway to the city's 19th‑c.港",
+          "sources": [
+            "https://www.nps.gov/safr/learn/historyculture/hyde-street-pier.htm",
+            "https://www.nps.gov/safr/planyourvisit/directions.htm",
+            "https://maritime.org/visit-us"
+          ],
+          "poi_id": "san-francisco-maritime-national-historical-park-hyde-street-pier--visitor-center"
+        },
+        {
+          "name": "San Francisco Cable Car Museum",
+          "alt_names": [
+            "Cable Car Museum (Washington‑Mason Powerhouse)"
+          ],
+          "address": "1201 Mason St, San Francisco, CA 94108",
+          "type": "museum",
+          "importance": "secondary",
+          "narration_score": 3,
+          "teaser": "Historic powerhouse and carbarn that explains the technology which later stitched the rapidly growing Gold Rush city to",
+          "sources": [
+            "https://cablecarmuseum.org/",
+            "https://www.cablecarmuseum.org/info.html"
+          ],
+          "poi_id": "san-francisco-cable-car-museum"
+        },
+        {
+          "name": "San Francisco Ferry Building",
+          "alt_names": [
+            "Ferry Building (Embarcadero)"
+          ],
+          "address": "1 Ferry Building, San Francisco, CA 94111",
+          "type": "building",
+          "importance": "secondary",
+          "narration_score": 3,
+          "teaser": "The Embarcadero's historic ferry terminal — a later 19th‑century waterfront hub that evolved from the city's Gold Rush‑f",
+          "sources": [
+            "https://en.wikipedia.org/wiki/San_Francisco_Ferry_Building",
+            "https://barbarycoasttrail.org/the-trail/"
+          ],
+          "poi_id": "san-francisco-ferry-building"
+        }
+      ],
+      "errors": []
+    },
+    {
+      "run_id": "2025-08-23T00:07:20Z_san-francisco_gold-rush",
+      "pass": "B",
+      "prompt_version": "10",
+      "model": "gpt-5-mini",
+      "timestamp": "2025-08-23T00:07:20Z",
+      "inputs": {
+        "city": "San Francisco",
+        "tour_title": "Gold Rush",
+        "max_stops": 9
+      },
+      "pois": [
+        {
+          "name": "Hyde Street Pier (San Francisco Maritime National Historical Park)",
+          "alt_names": [
+            "Hyde Street Pier",
+            "San Francisco Maritime NHP (Hyde Pier)"
+          ],
+          "address": "Pier 45, Jefferson St & Hyde St, San Francisco, CA 94133",
+          "type": "museum",
+          "importance": "primary",
+          "narration_score": 5,
+          "teaser": "Historic ships and waterfront exhibits that connect San Francisco's maritime boom directly to the Gold Rush shipping and",
+          "sources": [
+            "https://www.nps.gov/safr/learn/historyculture/hyde-street-pier.htm",
+            "https://www.nps.gov/places/san-francisco-maritime-national-historical-park.htm"
+          ],
+          "poi_id": "hyde-street-pier-san-francisco-maritime-national-historical-park"
+        },
+        {
+          "name": "Ghirardelli Square",
+          "alt_names": [
+            "Ghirardelli Chocolate Marketplace"
+          ],
+          "address": "900 North Point St, San Francisco, CA 94109",
+          "type": "site",
+          "importance": "primary",
+          "narration_score": 4,
+          "teaser": "Founded by a Gold Rush-era chocolatier, this adapted chocolate factory and plaza show commerce and leisure along the 19ᵗ",
+          "sources": [
+            "https://www.ghirardellisq.com/",
+            "https://en.wikipedia.org/wiki/Ghirardelli_Square"
+          ],
+          "poi_id": "ghirardelli-square"
+        },
+        {
+          "name": "Old U.S. Mint (The Granite Lady)",
+          "alt_names": [
+            "San Francisco Mint",
+            "Old Mint"
+          ],
+          "address": "88 5th St, San Francisco, CA 94103",
+          "type": "building",
+          "importance": "primary",
+          "narration_score": 5,
+          "teaser": "One of the few buildings to survive the 1906 earthquake, the Old Mint symbolizes federal finance and coinage tied to the",
+          "sources": [
+            "https://en.wikipedia.org/wiki/Old_United_States_Mint_(San_Francisco)",
+            "https://sfplanning.org/project/old-us-mint-rehabilitation-study"
+          ],
+          "poi_id": "old-us-mint-the-granite-lady"
+        },
+        {
+          "name": "Jackson Square Historic District",
+          "alt_names": [
+            "Jackson Square",
+            "Jackson Street (Historic)"
+          ],
+          "address": "Jackson St between Montgomery & Sansome, San Francisco, CA 94111",
+          "type": "site",
+          "importance": "primary",
+          "narration_score": 5,
+          "teaser": "A compact cluster of restored 1850s–1860s commercial buildings that preserves the look and merchant history of Gold Rush",
+          "sources": [
+            "https://www.sfhistory.org/jackson-square",
+            "https://en.wikipedia.org/wiki/Jackson_Square_(San_Francisco)"
+          ],
+          "poi_id": "jackson-square-historic-district"
+        },
+        {
+          "name": "Portsmouth Square",
+          "alt_names": [
+            "Portsmouth Square Park",
+            "Old Square"
+          ],
+          "address": "733 Kearny St, San Francisco, CA 94108 (Kearny & Washington)",
+          "type": "park",
+          "importance": "primary",
+          "narration_score": 5,
+          "teaser": "Known as the 'Cradle of San Francisco,' this central plaza was the site of early Gold Rush meetings, proclamations, and",
+          "sources": [
+            "https://sfrecpark.org/1181/Portsmouth-Square",
+            "https://en.wikipedia.org/wiki/Portsmouth_Square"
+          ],
+          "poi_id": "portsmouth-square"
+        },
+        {
+          "name": "Lotta's Fountain",
+          "alt_names": [
+            "Lotta Crabtree Fountain",
+            "Market & Kearny Fountain"
+          ],
+          "address": "Intersection of Market, Geary, and Kearny Streets (Lotta's Fountain), San Francisco, CA 94108",
+          "type": "monument",
+          "importance": "secondary",
+          "narration_score": 4,
+          "teaser": "An 1875 fountain and enduring city meeting point that links entertainers and civic memory to San Francisco's 19th‑centur",
+          "sources": [
+            "https://en.wikipedia.org/wiki/Lotta%27s_Fountain",
+            "https://www.sftreasurer.org/heritage/lotta-fountain"
+          ],
+          "poi_id": "lottas-fountain"
+        },
+        {
+          "name": "Old Saint Mary's Cathedral",
+          "alt_names": [
+            "Old St. Mary's",
+            "St. Mary's (California St)"
+          ],
+          "address": "660 California St, San Francisco, CA 94108",
+          "type": "church",
+          "importance": "secondary",
+          "narration_score": 4,
+          "teaser": "The first major Catholic cathedral in the city, a spiritual anchor for many 1849‑era immigrants and miners.",
+          "sources": [
+            "https://oldsaintmarys.org/",
+            "https://en.wikipedia.org/wiki/Old_St._Mary%27s_Cathedral"
+          ],
+          "poi_id": "old-saint-marys-cathedral"
+        },
+        {
+          "name": "San Francisco Cable Car Museum",
+          "alt_names": [
+            "Cable Car Museum (Washington-Mason Car Barn)"
+          ],
+          "address": "1201 Mason St, San Francisco, CA 94108",
+          "type": "museum",
+          "importance": "hidden_gem",
+          "narration_score": 3,
+          "teaser": "A working car barn and collection that illustrates how 19th‑century urban transport evolved in post‑Gold Rush San",
+          "sources": [
+            "https://www.sfmta.com/getting-around/muni/cable-cars/cable-car-museum",
+            "https://en.wikipedia.org/wiki/San_Francisco_Cable_Car_Museum"
+          ],
+          "poi_id": "san-francisco-cable-car-museum"
+        }
+      ],
+      "errors": []
+    },
+    {
+      "run_id": "2025-08-23T00:08:25Z_san-francisco_gold-rush",
+      "pass": "C",
+      "prompt_version": "10",
+      "model": "gpt-5-mini",
+      "timestamp": "2025-08-23T00:08:25Z",
+      "inputs": {
+        "city": "San Francisco",
+        "tour_title": "Gold Rush",
+        "max_stops": 9
+      },
+      "pois": [
+        {
+          "name": "Old United States Mint (The Granite Lady)",
+          "alt_names": [
+            "Old San Francisco Mint",
+            "The Granite Lady"
+          ],
+          "address": "88 5th St, San Francisco, CA 94103",
+          "type": "building",
+          "importance": "primary",
+          "narration_score": 5,
+          "teaser": "The fortified 1874 Mint that kept the city's gold (and credit) flowing after the 1906 earthquake — the financial heart-b",
+          "sources": [
+            "https://www.usmint.gov/about/tours-and-locations/san-francisco",
+            "https://en.wikipedia.org/wiki/Old_San_Francisco_Mint",
+            "https://ohp.parks.ca.gov/ListedResources/Detail/875"
+          ],
+          "poi_id": "old-united-states-mint-the-granite-lady"
+        },
+        {
+          "name": "Portsmouth Square",
+          "alt_names": [
+            "Old Portsmouth Square",
+            "Birthplace of Chinatown"
+          ],
+          "address": "733 Kearny St, San Francisco, CA 94108",
+          "type": "park",
+          "importance": "primary",
+          "narration_score": 5,
+          "teaser": "The oldest public square in San Francisco — where Gold Rush-era land claims, rallies and the city's earliest civic life聚",
+          "sources": [
+            "https://barbarycoasttrail.org/the-trail/",
+            "https://www.sfchronicle.com/sf/article/portsmouth-square-redesign-groundbreaking-20228265.php"
+          ],
+          "poi_id": "portsmouth-square"
+        },
+        {
+          "name": "Old Saint Mary's Cathedral",
+          "alt_names": [
+            "Old St. Mary's",
+            "Old St. Mary's Cathedral of the Immaculate Conception"
+          ],
+          "address": "660 California St, San Francisco, CA 94108",
+          "type": "church",
+          "importance": "primary",
+          "narration_score": 4,
+          "teaser": "Built in 1854 by Gold Rush‑era hands, it was the city's first cathedral and one of the tallest buildings of early San Fr",
+          "sources": [
+            "https://en.wikipedia.org/wiki/Old_Saint_Mary%27s_Cathedral",
+            "https://www.noehill.com/sf/landmarks/sf002.asp"
+          ],
+          "poi_id": "old-saint-marys-cathedral"
+        },
+        {
+          "name": "Tin How (Tin Hou) Temple",
+          "alt_names": [
+            "T'ien Hou Temple",
+            "Tin How Temple"
+          ],
+          "address": "125 Waverly Pl, San Francisco, CA 94108",
+          "type": "site",
+          "importance": "secondary",
+          "narration_score": 4,
+          "teaser": "One of the oldest Chinese temples in the U.S., founded during the Gold Rush era and central to Chinatown's early comm",
+          "sources": [
+            "https://en.wikipedia.org/wiki/Tin_How_Temple",
+            "https://barbarycoasttrail.org/the-trail/"
+          ],
+          "poi_id": "tin-how-tin-hou-temple"
+        },
+        {
+          "name": "San Francisco Maritime National Historical Park (Visitor Center / Hyde Street Pier)",
+          "alt_names": [
+            "Hyde Street Pier",
+            "San Francisco Maritime Museum"
+          ],
+          "address": "499 Jefferson St (Visitor Center), San Francisco, CA 94109",
+          "type": "museum",
+          "importance": "primary",
+          "narration_score": 5,
+          "teaser": "Where Gold Rush ships, maritime commerce and the waterfront's role in early San Francisco come alive — the northern end",
+          "sources": [
+            "https://www.nps.gov/safr/learn/historyculture/hyde-street-pier.htm",
+            "https://www.nps.gov/safr/planyourvisit/directions.htm"
+          ],
+          "poi_id": "san-francisco-maritime-national-historical-park-visitor-center--hyde-street-pier"
+        },
+        {
+          "name": "Cable Car Museum",
+          "alt_names": [
+            "Cable Car Barn & Powerhouse"
+          ],
+          "address": "1201 Mason St, San Francisco, CA 94108",
+          "type": "museum",
+          "importance": "secondary",
+          "narration_score": 3,
+          "teaser": "Historic Barn & Powerhouse demonstrating the cable-car technology that helped connect Gold Rush neighborhoods across the",
+          "sources": [
+            "https://www.cablecarmuseum.org/info.html",
+            "https://www.cablecarmuseum.org/archive/info.htm"
+          ],
+          "poi_id": "cable-car-museum"
+        },
+        {
+          "name": "Jackson Square Historic District",
+          "alt_names": [
+            "Jackson Square"
+          ],
+          "address": "Jackson Street between Montgomery and Columbus, San Francisco, CA 94111",
+          "type": "site",
+          "importance": "secondary",
+          "narration_score": 4,
+          "teaser": "A preserved cluster of Gold Rush and pre‑1906 commercial buildings — the city's merchant and warehouse quarter during",
+          "sources": [
+            "https://en.wikipedia.org/wiki/Jackson_Square%2C_San_Francisco",
+            "https://downtownsf.org/go/jackson-square"
+          ],
+          "poi_id": "jackson-square-historic-district"
+        },
+        {
+          "name": "Pioneer Monument (Civic Center)",
+          "alt_names": [
+            "Pioneer Monument and Minerva Column"
+          ],
+          "address": "Fulton St between Hyde St & Larkin St, San Francisco, CA 94102",
+          "type": "monument",
+          "importance": "secondary",
+          "narration_score": 4,
+          "teaser": "Erected in 1894 and topped by Minerva and a grizzly, the monument memorializes the '49er era and later debates about how",
+          "sources": [
+            "https://en.wikipedia.org/wiki/Pioneer_Monument_%28San_Francisco%29",
+            "https://www.sfgate.com"
+          ],
+          "poi_id": "pioneer-monument-civic-center"
+        },
+        {
+          "name": "Ghirardelli Square (Clock Tower & Manufactory)",
+          "alt_names": [
+            "Ghirardelli Chocolate Manufactory",
+            "Ghirardelli Square Clock Tower"
+          ],
+          "address": "900 North Point St, San Francisco, CA 94109",
+          "type": "site",
+          "importance": "hidden_gem",
+          "narration_score": 3,
+          "teaser": "From 19th‑century chocolate works to an adaptive‑reuse landmark, Ghirardelli illustrates waterfront industry growth that",
+          "sources": [
+            "https://www.ghirardellisq.com/history",
+            "https://en.wikipedia.org/wiki/Ghirardelli_Square"
+          ],
+          "poi_id": "ghirardelli-square-clock-tower--manufactory"
+        }
+      ],
+      "errors": []
+    }
+  ]
+}

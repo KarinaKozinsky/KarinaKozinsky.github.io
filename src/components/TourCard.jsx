@@ -1,133 +1,135 @@
-import React from "react";
+import React, { useEffect, useState } from "react";
+import { Link } from "react-router-dom";
 import MapPreview from "./MapPreview";
-import tour from "../data/tour_optimized.json";
 
-// Optional helper to convert 121 min → "2h 1m"
 const readableDuration = (min) => {
   const hrs = Math.floor(min / 60);
   const mins = Math.round(min % 60);
   return `${hrs}h${mins > 0 ? ` ${mins}m` : ""}`;
 };
 
-const metadata = tour.tour_metadata || {};
-const stopsList = tour.stops || [];
-
-const TourCard = ({
-  title = "Gold, Grit & Humble Beginnings",
+export default function TourCard({
+  src = "/tours/sf/gold_rush/gold_rush.json",
   rating = 4.5,
   price = 9.99,
-  type = "Walking Tour",
-  effort = metadata.effort || "Moderate Effort",
-  duration = metadata.estimated_duration_minutes
-    ? readableDuration(metadata.estimated_duration_minutes)
-    : "2–2.5 h",
-  distance = metadata.total_distance
-    ? `${(metadata.total_distance / 1000).toFixed(2)} km`
-    : "3.7 km",
-  stops = stopsList.length || 6,
-  center = metadata.centroid || { lat: 37.7749, lng: -122.4194 },
-}) => {
+}) {
+  const [tour, setTour] = useState(null);
+
+  useEffect(() => {
+    let mounted = true;
+    fetch(src).then(r => r.json()).then(d => { if (mounted) setTour(d); });
+    return () => { mounted = false; };
+  }, [src]);
+
+  if (!tour) return null;
+
+  const stops = tour.stops || [];
+  const summary = tour.summary || {};
+  const title = tour.title || "Tour Title";
+  const mode = tour.mode ? `${tour.mode[0].toUpperCase()}${tour.mode.slice(1)}` : "Walking";
+  const effort = tour.effort_level ? tour.effort_level : "moderate";
+  const distance =
+    tour.total_distance_km ?? summary.total_distance_km ?? null;
+  const durationMin =
+    tour.estimated_tour_duration_min ?? summary.estimated_tour_duration_min ?? null;
+
   const styles = {
+    outer: {
+      width: "100%",
+      maxWidth:400,
+      padding: 8,               // keeps it off screen edges
+      boxSizing: "border-box",
+    },
+    link: {
+      display: "block",
+      width: "100%",
+      textDecoration: "none",
+    },
     card: {
+      width: "100%",
+      boxSizing: "border-box",
       display: "flex",
       flexDirection: "column",
-      width: "393px",
-      height: "364px",
-      padding: "16px",
-      borderRadius: "24px",
+      justifyContent: "center",
+      maxWidth: 400,             // target design width
+      borderRadius: 16,
       background: "#fff",
-      gap: "8px",
       boxShadow: "0px 8px 20px rgba(0, 0, 0, 0.05)",
       fontFamily: "sans-serif",
+      gap: 8,
+      padding: 8
     },
     mapWrapper: {
       position: "relative",
-      height: "248px",
-      borderRadius: "10px",
+      width: "100%",
+      aspectRatio: "4 / 3",      // responsive height
+      minHeight: 200,            // safety for older browsers
+      borderRadius: 12,
       overflow: "hidden",
-    },
-    bookmarkIcon: {
-      position: "absolute",
-      top: "14px",
-      right: "14px",
-      fontSize: "20px",
-      zIndex: 1,
     },
     priceTag: {
       position: "absolute",
-      bottom: "16px",
-      right: "16px",
+      bottom: 16,
+      right: 16,
       background: "#fff",
       padding: "6px 12px",
-      borderRadius: "8px",
+      borderRadius: 8,
       fontWeight: "bold",
-      fontSize: "14px",
+      fontSize: 14,
       zIndex: 1,
+      boxShadow: "0 2px 8px rgba(0,0,0,0.08)",
     },
-    info: {
-      display: "flex",
-      flexDirection: "column",
-      gap: "8px",
-    },
-    titleRating: {
+    info: { display: "flex", flexDirection: "column", gap: 8 },
+    titleRow: {
       display: "flex",
       justifyContent: "space-between",
-      fontWeight: "bold",
+      fontWeight: 700,
     },
-    metadata: {
+    meta: {
       display: "flex",
       flexWrap: "wrap",
-      gap: "8px",
-      fontSize: "14px",
+      gap: 8,
+      fontSize: 14,
       color: "#666",
     },
-    dots: {
-      display: "flex",
-      gap: "5px",
-    },
+    dots: { display: "flex", gap: 5, },
     dot: {
-      width: "6px",
-      height: "6px",
-      borderRadius: "50%",
-      background: "#d9d9d9",
+      width: 6, height: 6, borderRadius: "50%", background: "#d9d9d9",
     },
-    dotActive: {
-      background: "#161616",
-    },
+    dotActive: { background: "#161616" },
   };
 
   return (
-    <div style={styles.card}>
-      <div style={styles.mapWrapper}>
-        <div style={styles.bookmarkIcon}>🔖</div>
-        <div style={styles.priceTag}>${price}</div>
-        <MapPreview center={center} zoom={20} />
-      </div>
+    <div style={styles.outer}>
+      <Link to="/tour" style={styles.link}>
+        <div style={styles.card}>
+          <div style={styles.mapWrapper}>
+            <div style={styles.priceTag}>${price}</div>
+            <MapPreview polyline={tour.route_polyline} stops={stops} />
+          </div>
 
-      <div style={styles.info}>
-        <div style={styles.titleRating}>
-          <span>{title}</span>
-          <span>⭐ {rating}</span>
+          <div style={styles.info}>
+            <div style={styles.titleRow}>
+              <span>{title}</span>
+              <span>⭐ {rating}</span>
+            </div>
+            <div style={styles.meta}>
+              <span>🚶 {mode}</span>
+              <span>⚡ {effort}</span>
+              <span>🕒 {durationMin ? readableDuration(durationMin) : "N/A"}</span>
+              <span>📍 {distance != null ? `${distance} km` : "N/A"}</span>
+              <span>🔢 {stops.length} Stops</span>
+            </div>
+            <div style={styles.dots}>
+              <span style={{ ...styles.dot, ...styles.dotActive }} />
+              <span style={styles.dot} />
+              <span style={styles.dot} />
+              <span style={styles.dot} />
+              <span style={styles.dot} />
+            </div>
+          </div>
         </div>
-
-        <div style={styles.metadata}>
-          <span>🚶 {type}</span>
-          <span>⚡ {effort}</span>
-          <span>🕒 {duration}</span>
-          <span>📍 {distance}</span>
-          <span>🔢 {stops} Stops</span>
-        </div>
-
-        <div style={styles.dots}>
-          <span style={{ ...styles.dot, ...styles.dotActive }}></span>
-          <span style={styles.dot}></span>
-          <span style={styles.dot}></span>
-          <span style={styles.dot}></span>
-          <span style={styles.dot}></span>
-        </div>
-      </div>
+      </Link>
     </div>
   );
-};
-
-export default TourCard;
+}
