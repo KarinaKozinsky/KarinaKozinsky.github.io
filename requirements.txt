@@ -1,3 +1,0 @@
-googlemaps
-python-dotenv
-geopy
