@@ -1,0 +1,31 @@
+{
+  "status": "published",
+  "tour_id": "boomtown_to_boomtech",
+  "city_code": "sjc",
+  "tour_title": "Boomtown to Boomtech",
+  "version": "20250927.190006",
+  "updated_at": "2025-09-27T19:00:06Z",
+  "files": {
+    "tour_json": "./boomtown_to_boomtech.json",
+    "audio_dir": "./audio/stops/",
+    "assets_dir": "./assets/",
+    "greeting_json": "./greeting.json",
+    "ending_json": "./ending.json",
+    "cover_image": "./assets/cover.jpg"
+  },
+  "summary": {
+    "stop_count": 5,
+    "est_duration_min": 86,
+    "est_distance_km": 2.55
+  },
+  "map": {
+    "start": {
+      "lat": 37.3314903,
+      "lng": -121.8902357
+    },
+    "end": {
+      "lat": 37.3351874,
+      "lng": -121.8810715
+    }
+  }
+}

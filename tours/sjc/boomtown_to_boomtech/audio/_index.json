@@ -1,0 +1,45 @@
+[
+  {
+    "poi_id": "the-tech-interactive",
+    "file": "stops/the-tech-interactive.mp3",
+    "duration_sec": 346.632979,
+    "hash_text": "469dea942ed617650da240cf1cf43fe34a209aeb",
+    "source": "tts"
+  },
+  {
+    "poi_id": "san-pedro-square-market",
+    "file": "stops/san-pedro-square-market.mp3",
+    "duration_sec": 254.952979,
+    "hash_text": "d2d3179ab3e9d3d8abe7c153bf6c5e6d140713f9",
+    "source": "tts"
+  },
+  {
+    "poi_id": "gonzales-peralta-adobe--fallon-house-historic-site",
+    "file": "stops/gonzales-peralta-adobe-fallon-house-historic-site.mp3",
+    "duration_sec": 270.576979,
+    "hash_text": "fce3b3e208a32c892cff87ec09c01c10a904edda",
+    "source": "tts"
+  },
+  {
+    "poi_id": "luis-mara-peralta-adobe",
+    "file": "stops/luis-mara-peralta-adobe.mp3",
+    "duration_sec": 227.664979,
+    "hash_text": "4909ba8052c20c367c777fe555a1ba30626ce2e9",
+    "source": "tts"
+  },
+  {
+    "poi_id": "san-jos-state-university",
+    "file": "stops/san-jos-state-university.mp3",
+    "duration_sec": 298.728979,
+    "hash_text": "080f449a838c1df59e0b50c158fe1c33f02c9ad4",
+    "source": "tts"
+  },
+  {
+    "type": "intro",
+    "file": "system/intro.mp3",
+    "duration_sec": 17.808,
+    "hash_text": "28952f48a6fbb8fecc51d715ee52268529039579",
+    "source": "tts",
+    "trailing_pause_ms": 600
+  }
+]
