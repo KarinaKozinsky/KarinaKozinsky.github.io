@@ -2,7 +2,7 @@
   "schema_version": "1.0",
   "computed_at": "2025-09-27T19:00:06Z",
   "tour_id": "boomtown_to_boomtech",
-  "title": "Untitled Tour",
+  "tour_title": "Boomtown to Boomtech",
   "city": "San Jose",
   "city_code": "sjc",
   "description": "How a quiet agricultural town reinvented itself—twice.",

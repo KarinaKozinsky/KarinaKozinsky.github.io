@@ -2,7 +2,7 @@
   {
     "tour_id": "boomtown_to_boomtech",
     "city_code": "sjc",
-    "title": "Untitled Tour",
+    "tour_title": "Boomtown to Boomtech",
     "manifest": "/tours/sjc/boomtown_to_boomtech/manifest.json",
     "cover": "/tours/sjc/boomtown_to_boomtech/assets/cover.jpg"
   }

@@ -1,7 +1,0 @@
-{
-  "id": "greeting",
-  "type": "virtual",
-  "title": "Welcome to Your Tour!",
-  "body": "Hey there! I’m Strider, your AI guide for today’s journey. Welcome to your self-guided tour of the [theme] in [city]. I’ll share stories and tips at each stop—when I finish, there’s time for your questions. This tour is hands-free - you can keep your phone in your pocket most of the time. Your directions and narration will play automatically when you arrive at the stop. I’ll do my best to make your experience awesome, but hey—I’m not perfect. If you spot something I missed or notice a detail that is off, let me know! I promise, I won’t take it personally:) Take breaks, replay stops, or skip ahead—it’s your adventure. Let’s get going!",
-  "audio": "/audio/greeting.mp3"
-}
