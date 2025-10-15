@@ -1,0 +1,25 @@
+{
+  "status": "published",
+  "tour_id": "local_test_tour",
+  "city_code": "local",
+  "tour_title": "Local Test Tour",
+  "version": "20251015.000000",
+  "updated_at": "2025-10-15T00:00:00Z",
+  "files": {
+    "tour_json": "./local_test_tour.json",
+    "audio_dir": "./audio/stops/",
+    "assets_dir": "./assets/",
+    "greeting_json": "./greeting.json",
+    "ending_json": "./ending.json",
+    "cover_image": "./assets/cover.jpg"
+  },
+  "summary": {
+    "stop_count": 4,
+    "est_duration_min": 15,
+    "est_distance_km": 0.59
+  },
+  "map": {
+    "start": { "lat": 37.243294, "lng": -121.845066 },
+    "end":   { "lat": 37.245449, "lng": -121.848634 }
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "schema_version": "1.0",
+  "computed_at": "2025-10-15T00:00:00Z",
+  "tour_id": "local_test_tour",
+  "tour_title": "Local Test Tour",
+  "city": "San Jose",
+  "city_code": "sjc",
+  "description": "A tiny 4-stop loop near home to test onsite/offsite detection, prompts, and autoplay.",
+  "mode": "walking",
+  "effort_level": "easy",
+
+  "route_polyline": "qaibFtztfVb@lNG~FkMe@",
+
+  "summary": {
+    "stop_count": 4,
+    "total_distance_km": 0.59,
+    "total_walking_minutes": 8,
+    "estimated_tour_duration_min": 15,
+    "effort_level": "easy"
+  },
+
+  "centroid": { "lat": 37.24375175, "lng": -121.8475155 },
+
+  "actual_start_id": "house",
+
+  "stops": [
+    {
+      "poi_id": "house",
+      "name": "House",
+      "lat": 37.243294,
+      "lng": -121.845066,
+      "address": "763 Calero Ave, San Jose, CA 95123",
+      "teaser": "Launch pad for the local test loop.",
+      "narration_text": "This is your start point. When you tap Play, we’ll snap a high-accuracy location and classify onsite/offsite immediately. Walk west toward the church to trigger approach/arrival.",
+      "narration_audio": "/tours/sjc/local_test_tour/audio/stops/house.mp3",
+      "images": []
+    },
+    {
+      "poi_id": "church",
+      "name": "Church",
+      "lat": 37.24311,
+      "lng": -121.84754,
+      "address": "Church (local test)",
+      "teaser": "Short hop to verify APPROACH and ARRIVE prompts.",
+      "narration_text": "You’re near the church. If autoplay is on and you’re within the arrival radius, narration should start hands-free. Try stepping just outside and back in to test unlatch/re-latch.",
+      "narration_audio": "/tours/sjc/local_test_tour/audio/stops/church.mp3",
+      "images": []
+    },
+    {
+      "poi_id": "fire-station",
+      "name": "Fire Station",
+      "lat": 37.243154,
+      "lng": -121.848822,
+      "address": "Fire Station (local test)",
+      "teaser": "Second prompt—good to test dwell timing.",
+      "narration_text": "This stop helps you test DWELL timing and the approach/arrive banners. Walk slowly through the radius to watch the latches behave.",
+      "narration_audio": "/tours/sjc/local_test_tour/audio/stops/fire-station.mp3",
+      "images": []
+    },
+    {
+      "poi_id": "park",
+      "name": "Park",
+      "lat": 37.245449,
+      "lng": -121.848634,
+      "address": "Park (local test)",
+      "teaser": "Final stop to test coda → next logic (there is no next).",
+      "narration_text": "Final stop. When narration ends, you’ll see a banner and no auto-advance, since this is the last stop. Use this to test end-of-tour flow before the wrap-up.",
+      "narration_audio": "/tours/sjc/local_test_tour/audio/stops/park.mp3",
+      "images": []
+    }
+  ]
+}
