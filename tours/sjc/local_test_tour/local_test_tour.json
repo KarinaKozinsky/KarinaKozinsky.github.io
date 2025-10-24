@@ -27,6 +27,7 @@
     {
       "poi_id": "house",
       "name": "House",
+      "name_audio": "/tours/sjc/local_test_tour/audio/stop_names/house.mp3",
       "lat": 37.243294,
       "lng": -121.845066,
       "address": "763 Calero Ave, San Jose, CA 95123",
@@ -38,6 +39,7 @@
     {
       "poi_id": "church",
       "name": "Church",
+      "name_audio": "/tours/sjc/local_test_tour/audio/stop_names/church.mp3",
       "lat": 37.24311,
       "lng": -121.84754,
       "address": "Church (local test)",
@@ -49,6 +51,7 @@
     {
       "poi_id": "fire-station",
       "name": "Fire Station",
+      "name_audio": "/tours/sjc/local_test_tour/audio/stop_names/fire-station.mp3",
       "lat": 37.243154,
       "lng": -121.848822,
       "address": "Fire Station (local test)",
@@ -60,6 +63,7 @@
     {
       "poi_id": "park",
       "name": "Park",
+      "name_audio": "/tours/sjc/local_test_tour/audio/stop_names/park.mp3",
       "lat": 37.245449,
       "lng": -121.848634,
       "address": "Park (local test)",
