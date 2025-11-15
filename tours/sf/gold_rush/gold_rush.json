@@ -2,7 +2,7 @@
   "schema_version": "1.0",
   "computed_at": "2025-08-31T01:51:22Z",
   "tour_id": "gold_rush",
-  "title": "Gold Rush",
+  "tour_title": "Gold Rush",
   "city": "San Francisco",
   "description": "Compact Gold Rush intro for first-time visitors.",
   "mode": "walking",
