@@ -1,0 +1,115 @@
+[
+  {
+    "poi_id": "union-square",
+    "file": "stops/union-square.mp3",
+    "duration_sec": 259.056979,
+    "hash_text": "1c0907b0992c33d763ce7d9dbebb61d34a56ed7e",
+    "source": "recorded"
+  },
+  {
+    "poi_id": "fairmont-san-francisco",
+    "file": "stops/fairmont-san-francisco.mp3",
+    "duration_sec": 245.160979,
+    "hash_text": "6a721b4ff94662d9ba9d4ce42c12cf8e7f3a67ac",
+    "source": "recorded"
+  },
+  {
+    "poi_id": "grace-cathedral",
+    "file": "stops/grace-cathedral.mp3",
+    "duration_sec": 259.632979,
+    "hash_text": "cb56b63406ae331d5f3bf0a201634e665010374d",
+    "source": "recorded"
+  },
+  {
+    "poi_id": "american-conservatory-theater",
+    "file": "stops/american-conservatory-theater.mp3",
+    "duration_sec": 271.728979,
+    "hash_text": "50c94667b16c60113ae42cc0b88abc9f4c2a2536",
+    "source": "recorded"
+  },
+  {
+    "poi_id": "the-westin-st-francis-san-francisco-on-union-square",
+    "file": "stops/the-westin-st-francis-san-francisco-on-union-square.mp3",
+    "duration_sec": 249.480979,
+    "hash_text": "8aa557f9917fec8a23eb6559581e121332b6143f",
+    "source": "recorded"
+  },
+  {
+    "poi_id": "neiman-marcus",
+    "file": "stops/neiman-marcus.mp3",
+    "duration_sec": 228.528979,
+    "hash_text": "464e433152eb3fd402f01ad7105d32c99ae2235b",
+    "source": "recorded"
+  },
+  {
+    "poi_id": "gumps-san-francisco",
+    "file": "stops/gumps-san-francisco.mp3",
+    "duration_sec": 267.888979,
+    "hash_text": "e0e9a2f6dc66dcfc904764b18c39ce5bc68b4794",
+    "source": "recorded"
+  },
+  {
+    "poi_id": "union-square",
+    "file": "stops/union-square_name.mp3",
+    "duration_sec": 0.744,
+    "hash_text": "",
+    "source": "tts_name",
+    "type": "name"
+  },
+  {
+    "poi_id": "fairmont-san-francisco",
+    "file": "stops/fairmont-san-francisco_name.mp3",
+    "duration_sec": 1.392,
+    "hash_text": "",
+    "source": "tts_name",
+    "type": "name"
+  },
+  {
+    "poi_id": "grace-cathedral",
+    "file": "stops/grace-cathedral_name.mp3",
+    "duration_sec": 0.984,
+    "hash_text": "",
+    "source": "tts_name",
+    "type": "name"
+  },
+  {
+    "poi_id": "american-conservatory-theater",
+    "file": "stops/american-conservatory-theater_name.mp3",
+    "duration_sec": 1.824,
+    "hash_text": "",
+    "source": "tts_name",
+    "type": "name"
+  },
+  {
+    "poi_id": "the-westin-st-francis-san-francisco-on-union-square",
+    "file": "stops/the-westin-st-francis-san-francisco-on-union-square_name.mp3",
+    "duration_sec": 3.192,
+    "hash_text": "",
+    "source": "tts_name",
+    "type": "name"
+  },
+  {
+    "poi_id": "neiman-marcus",
+    "file": "stops/neiman-marcus_name.mp3",
+    "duration_sec": 0.864,
+    "hash_text": "",
+    "source": "tts_name",
+    "type": "name"
+  },
+  {
+    "poi_id": "gumps-san-francisco",
+    "file": "stops/gumps-san-francisco_name.mp3",
+    "duration_sec": 1.224,
+    "hash_text": "",
+    "source": "tts_name",
+    "type": "name"
+  },
+  {
+    "type": "intro",
+    "file": "system/intro.mp3",
+    "duration_sec": 21.36,
+    "hash_text": "3f51c3a024c2eb4ea39e151fa3613688f5e730c8",
+    "source": "tts",
+    "trailing_pause_ms": 600
+  }
+]

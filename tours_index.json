@@ -1,9 +1,9 @@
 [
   {
-    "tour_id": "boomtown_to_boomtech",
-    "city_code": "sjc",
-    "tour_title": "Boomtown to Boomtech",
-    "manifest": "/tours/sjc/boomtown_to_boomtech/manifest.json",
-    "cover": "/tours/sjc/boomtown_to_boomtech/assets/cover.jpg"
+    "tour_id": "sf_christmas_tales",
+    "city_code": "sfo",
+    "tour_title": "Christmas Tales of Old San Francisco. ",
+    "manifest": "/tours/sfo/sf_christmas_tales/manifest.json",
+    "cover": "/tours/sfo/sf_christmas_tales/assets/cover.jpg"
   }
 ]
