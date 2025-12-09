@@ -3,7 +3,7 @@
     "tour_id": "sf_christmas_tales",
     "city_code": "sfo",
     "tour_title": "Christmas Tales of Old San Francisco. ",
-    "manifest": "/tours/sfo/sf_christmas_tales/manifest.json",
-    "cover": "/tours/sfo/sf_christmas_tales/assets/cover.jpg"
+    "manifest": "/tours/sfo/christmas_tales/manifest.json",
+    "cover": "/tours/sfo/christmas_tales/assets/cover.jpg"
   }
 ]

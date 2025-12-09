@@ -1,12 +1,12 @@
 {
   "status": "published",
-  "tour_id": "sf_christmas_tales",
+  "tour_id": "christmas_tales",
   "city_code": "sfo",
   "tour_title": "Christmas Tales of Old San Francisco. ",
   "version": "20251122.201708",
   "updated_at": "2025-11-22T20:17:08Z",
   "files": {
-    "tour_json": "./sf_christmas_tales.json",
+    "tour_json": "./christmas_tales.json",
     "audio_dir": "./audio/stops/",
     "assets_dir": "./assets/",
     "greeting_json": "./greeting.json",
