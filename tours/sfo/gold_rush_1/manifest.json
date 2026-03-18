@@ -1,0 +1,13 @@
+{
+  "city_code": "sf",
+  "tour_id": "gold_rush",
+  "base_url": "/tours/sf/gold_rush",
+  "main": "/tours/sf/gold_rush/gold_rush.json",
+  "assets": {
+    "greeting": "/tours/sf/gold_rush/greeting.json",
+    "ending": "/tours/sf/gold_rush/ending.json"
+  },
+  "meta": {
+    "title": "Gold Rush"
+  }
+}

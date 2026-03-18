@@ -1,13 +1,40 @@
 {
-  "city_code": "sf",
+  "status": "published",
+  "published_at": "2026-03-18T00:17:52Z",
+  "city_code": "sfo",
   "tour_id": "gold_rush",
-  "base_url": "/tours/sf/gold_rush",
-  "main": "/tours/sf/gold_rush/gold_rush.json",
-  "assets": {
-    "greeting": "/tours/sf/gold_rush/greeting.json",
-    "ending": "/tours/sf/gold_rush/ending.json"
+  "tour_title": "Gold Rush to Boomtown",
+  "description": "From a muddy Gold Rush settlement to a booming port city—discover the streets, saloons, and scandals that shaped early San Francisco.",
+  "pricing_tier": "standard",
+  "tour_json": "tour.json",
+  "context": {
+    "lang": "en",
+    "themes": [
+      "gold_rush",
+      "barbary_coast",
+      "boomtown"
+    ],
+    "area_label": "Portsmouth Square",
+    "time_window": "daytime",
+    "seasons": [
+      "all_year"
+    ]
   },
-  "meta": {
-    "title": "Gold Rush"
-  }
+  "summary": {
+    "mode": "walking",
+    "effort_level": "moderate",
+    "stop_count": 8,
+    "est_duration_min": 97,
+    "est_distance_km": 1.16
+  },
+  "map": {
+    "region": {
+      "center": {
+        "lat": 37.795797,
+        "lng": -122.404121
+      },
+      "radius_m": 408
+    }
+  },
+  "gallery": []
 }

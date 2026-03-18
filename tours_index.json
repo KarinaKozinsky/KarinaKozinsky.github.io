@@ -5,5 +5,12 @@
     "tour_title": "Christmas Tales of Old San Francisco. ",
     "manifest": "/tours/sfo/christmas_tales/manifest.json",
     "cover": "/tours/sfo/christmas_tales/assets/cover.jpg"
+  },
+  {
+    "tour_id": "gold_rush",
+    "city_code": "sfo",
+    "tour_title": "Gold Rush to Boomtown",
+    "manifest": "/tours/sfo/gold_rush/manifest.json",
+    "cover": "/tours/sfo/gold_rush/assets/cover.jpg"
   }
 ]

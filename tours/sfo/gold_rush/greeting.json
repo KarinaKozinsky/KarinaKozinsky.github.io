@@ -1,7 +1,5 @@
 {
-  "id": "greeting",
-  "type": "virtual",
-  "title": "Welcome to Your Tour!",
-  "body": "Hey there! I’m Strider, your AI guide for today’s journey. Welcome to your self-guided tour of the Gold Rush in San Fransisco. I’ll share stories and tips at each stop—when I finish, there’s time for your questions. This tour is hands-free - you can keep your phone in your pocket most of the time. Your directions and narration will play automatically when you arrive at the stop. I’ll do my best to make your experience awesome, but hey—I’m not perfect. If you spot something I missed or notice a detail that is off, let me know! I promise, I won’t take it personally:) Take breaks, replay stops, or skip ahead—it’s your adventure. Let’s get going!",
-  "audio": "/audio/greeting.mp3"
+  "title": "Welcome to Gold Rush to Boomtown",
+  "text": "Hi! I’m Strider, your AI guide for today’s journey. I’ll walk you through the tour and share stories at each stop. The tour plays hands-free—as you approach the stop, I’ll start talking. Prefer to take control or change the order? Manual controls are always available—you can pause, replay, or skip anytime —it’s your adventure. Use the map to follow the route. For the best experience, keep the location on and volume up (headphones recommended). I’ll do my best to make this great, but hey—I’m not perfect. If I miss something or get a detail wrong, please let me know—promise, I won’t take it personally.\n\n[long pause]\n\nWelcome to the Gold Rush to Boomtown tour in San Francisco!\n\n[pause]\n\nThe tour traces how a sleepy Mexican plaza became an American boomtown, repeatedly destroyed and reborn by fire, finance, and fevered dreams of gold. At each stop you’ll see how fortunes, laws, and even empires were forged in saloons, countinghouses, and temples, while immigrants, vigilantes, and visionaries battled over who would truly own “Gold Mountain.”\n\n[pause]\n\nAll right — let’s get going.",
+  "audio": "audio/system/greeting.m4a"
 }

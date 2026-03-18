@@ -1,0 +1,157 @@
+{
+  "status": "preview",
+  "published_at": "2026-03-18T00:17:07Z",
+  "tour_id": "gold_rush",
+  "meta": {
+    "city": "San Francisco",
+    "city_code": "sfo",
+    "title": "Gold Rush to Boomtown",
+    "description": "From a muddy Gold Rush settlement to a booming port city—discover the streets, saloons, and scandals that shaped early San Francisco.",
+    "themes": [
+      "gold_rush",
+      "barbary_coast",
+      "boomtown"
+    ],
+    "mode": "walking",
+    "lang": "en",
+    "time_window": "daytime",
+    "seasons": [
+      "all_year"
+    ],
+    "stop_count": 8,
+    "total_distance_km": 1.16,
+    "total_walking_minutes": 17,
+    "estimated_tour_duration_min": 97,
+    "effort_level": "moderate"
+  },
+  "images": [
+    {
+      "order": 0,
+      "poi_id": "portsmouth-square-park",
+      "name": "Portsmouth Square Park",
+      "place_id": "ChIJ-RJFNouAhYARHU0SXkyCGn8",
+      "photo_name": "places/ChIJ-RJFNouAhYARHU0SXkyCGn8/photos/ATCDNfVGbjS02DTRSJoScnPGNWbCnL2MoHKqgxEnZOU1FSj7Ki8HYtC_Z_JQP6x-IeLNFg5jEaZMWzrIQvhPlg2ISJO0iY5alSdsX3v1Hlzg64Nq5XuFQidBDJ0vZUAFB1ouENEkbwjjm2ELJbNCTDQ1P7yUNZ2i5fcu0BpO1qmxcFTqrrSvH7flKBYDpWO-jC4QVmCUZVf_2UKdqWX_X0dySfDLP8OxXO4hacvRzPZtQMBQ4XNbetXsIHtO2O5RqDHmsWA1AcVpn3vp8y91L2w0Q89saC1X-wpYzGykfwI3FsrztK890-sa9BjQmwolQgKIA2IVPbYtxuZWXWlpZcni2sexYiazI18EG2EgGIfGShraalWWb2tBAxriJVdFCl2RLNR0EBQz8mg1ma9zRE5ad83SMw9toutzHGNi3MWyUQi2KEsu",
+      "photo_uri": "https://places.googleapis.com/v1/places/ChIJ-RJFNouAhYARHU0SXkyCGn8/photos/ATCDNfVGbjS02DTRSJoScnPGNWbCnL2MoHKqgxEnZOU1FSj7Ki8HYtC_Z_JQP6x-IeLNFg5jEaZMWzrIQvhPlg2ISJO0iY5alSdsX3v1Hlzg64Nq5XuFQidBDJ0vZUAFB1ouENEkbwjjm2ELJbNCTDQ1P7yUNZ2i5fcu0BpO1qmxcFTqrrSvH7flKBYDpWO-jC4QVmCUZVf_2UKdqWX_X0dySfDLP8OxXO4hacvRzPZtQMBQ4XNbetXsIHtO2O5RqDHmsWA1AcVpn3vp8y91L2w0Q89saC1X-wpYzGykfwI3FsrztK890-sa9BjQmwolQgKIA2IVPbYtxuZWXWlpZcni2sexYiazI18EG2EgGIfGShraalWWb2tBAxriJVdFCl2RLNR0EBQz8mg1ma9zRE5ad83SMw9toutzHGNi3MWyUQi2KEsu/media?maxWidthPx=1600&key=AIzaSyCJVURg2aWUACuHsIKOiqXlCdI6MACICEQ",
+      "width_px": 3900,
+      "height_px": 2194,
+      "source": "google_places"
+    },
+    {
+      "order": 1,
+      "poi_id": "transamerica-pyramid",
+      "name": "Transamerica Pyramid",
+      "place_id": "ChIJQ-U7wYqAhYAReKjwcBt6SGU",
+      "photo_name": "places/ChIJQ-U7wYqAhYAReKjwcBt6SGU/photos/ATCDNfUCSZToUuPly8jvXLRRgDA7iRtg_f9Xpy2-0qhz-Rm_OGB2kzGo9Ths70Mrc2db1zznQKmVwAdstQLSP4fsdQqHlHvQk6dW81SbkCrHR3sJsSnCCLDtwoIfgVWVvEpPP46ppATtwy6CesuCbNHnKN5G0ZipdencrHFKxLewR2Vsz1HRxzIQSaUJzefGYqjs7-tKMpHaTTpcRHd3AjtBTyDm7kpOPaPq2kVu0BrPRBZ5yS1DbQ0zIFjAEsU2tvVRgEVBg5eG_K8iff1019mX4-YgFafJ1kNRxoRBtZsL8fwEDZrOCAw6al9A1G7Kx9tVewHoUerCZLURG6lKGrcxBiuEX9W0TATOl5EwrGRWnfk3RvOHklZvNhyoGAX2Ain9ZqOo2L_s4433c5U10-kemswUVmOulltOc26V1_z4dZLAiBG_",
+      "photo_uri": "https://places.googleapis.com/v1/places/ChIJQ-U7wYqAhYAReKjwcBt6SGU/photos/ATCDNfUCSZToUuPly8jvXLRRgDA7iRtg_f9Xpy2-0qhz-Rm_OGB2kzGo9Ths70Mrc2db1zznQKmVwAdstQLSP4fsdQqHlHvQk6dW81SbkCrHR3sJsSnCCLDtwoIfgVWVvEpPP46ppATtwy6CesuCbNHnKN5G0ZipdencrHFKxLewR2Vsz1HRxzIQSaUJzefGYqjs7-tKMpHaTTpcRHd3AjtBTyDm7kpOPaPq2kVu0BrPRBZ5yS1DbQ0zIFjAEsU2tvVRgEVBg5eG_K8iff1019mX4-YgFafJ1kNRxoRBtZsL8fwEDZrOCAw6al9A1G7Kx9tVewHoUerCZLURG6lKGrcxBiuEX9W0TATOl5EwrGRWnfk3RvOHklZvNhyoGAX2Ain9ZqOo2L_s4433c5U10-kemswUVmOulltOc26V1_z4dZLAiBG_/media?maxWidthPx=1600&key=AIzaSyCJVURg2aWUACuHsIKOiqXlCdI6MACICEQ",
+      "width_px": 3024,
+      "height_px": 4032,
+      "source": "google_places"
+    },
+    {
+      "order": 2,
+      "poi_id": "hotaling-building",
+      "name": "Hotaling Building",
+      "place_id": "ChIJj0I-0ymBhYARxmoOdqFEDeo",
+      "photo_name": "places/ChIJj0I-0ymBhYARxmoOdqFEDeo/photos/ATCDNfWnPtWzHrmZ-x2m_H21oFY-WkxN7_sbJZSo-P65qnpRDPejDFMYmWPd_OQvLAO1gyux9XEh9Tp0v33Ei1nVhOWmgfMQ2Di035xxdpVBZ3anJFP6ay5gSA8I4CSNKIKJGReOAgWU7jDtt9WKtsKapMT06pmaBblPZzyVaXxKoDi1S2VJ1zq9Yt7GV35zbQJMGCs24ZQLrSyDtMk8K0mW_Bx8SYo6iPBWM_rg_IutVJdof5aKJYzJE7ZkkPmqo4SagPfEfHoBDx8ix3zOci-ijukQfP1Y3YgJMNxU_-SyTDHeRY2_N5qxTvBTVtE2XLjuJdcCl62caCTQHaj3lYEMr33N6kKYsj-H5lk6FmM404fzSpAAvE3H2c8SLAtwK5zE5u-iwAMlEspIwfmuBCpNHEoj4jBncPYxa7V6n-g-_AMvcQ",
+      "photo_uri": "https://places.googleapis.com/v1/places/ChIJj0I-0ymBhYARxmoOdqFEDeo/photos/ATCDNfWnPtWzHrmZ-x2m_H21oFY-WkxN7_sbJZSo-P65qnpRDPejDFMYmWPd_OQvLAO1gyux9XEh9Tp0v33Ei1nVhOWmgfMQ2Di035xxdpVBZ3anJFP6ay5gSA8I4CSNKIKJGReOAgWU7jDtt9WKtsKapMT06pmaBblPZzyVaXxKoDi1S2VJ1zq9Yt7GV35zbQJMGCs24ZQLrSyDtMk8K0mW_Bx8SYo6iPBWM_rg_IutVJdof5aKJYzJE7ZkkPmqo4SagPfEfHoBDx8ix3zOci-ijukQfP1Y3YgJMNxU_-SyTDHeRY2_N5qxTvBTVtE2XLjuJdcCl62caCTQHaj3lYEMr33N6kKYsj-H5lk6FmM404fzSpAAvE3H2c8SLAtwK5zE5u-iwAMlEspIwfmuBCpNHEoj4jBncPYxa7V6n-g-_AMvcQ/media?maxWidthPx=1600&key=AIzaSyCJVURg2aWUACuHsIKOiqXlCdI6MACICEQ",
+      "width_px": 800,
+      "height_px": 758,
+      "source": "google_places"
+    },
+    {
+      "order": 3,
+      "poi_id": "hotaling-building",
+      "name": "Hotaling Building",
+      "place_id": "ChIJj0I-0ymBhYARxmoOdqFEDeo",
+      "photo_name": "places/ChIJj0I-0ymBhYARxmoOdqFEDeo/photos/ATCDNfUZJ-3DfFC1TQjXkbDJl4LYl5ssVzROd_HJR2nOlZKbz0U43f-KO3hEzkRzZ8MMNsgAvhsmfILecrIMazIQnWSz_LfwFwQp3qsLQkEJ4SsvAwF8mt5ly4k1mQrSSbUOLfOBV8k-49544MkyiG0dAOj-mpvhkaje4_rVuWBhsk7nmu9aS3vR-bmHXuP2E_uH9-r_GmICCg_OvRHNKeQPIsJHBGceLpcP34ZVSb0xU1nO78Hv7_kDi0OdzNc2ZoDs-zczG0mosLfT4hEo8BcBO_uzh-MAhZDwZchyzuUd0TkkwCCJO3ttvtUjjP_dNWY15uc5OQohZF8JjuIOz7GsT2hPNS33efjhumbslkF2QvtbCZfZj1Lfsa5V1qej5BjX81-bqZr__36_DUBq9L5xL3Kaytl43jVNSk1r3AE7ZsA",
+      "photo_uri": "https://places.googleapis.com/v1/places/ChIJj0I-0ymBhYARxmoOdqFEDeo/photos/ATCDNfUZJ-3DfFC1TQjXkbDJl4LYl5ssVzROd_HJR2nOlZKbz0U43f-KO3hEzkRzZ8MMNsgAvhsmfILecrIMazIQnWSz_LfwFwQp3qsLQkEJ4SsvAwF8mt5ly4k1mQrSSbUOLfOBV8k-49544MkyiG0dAOj-mpvhkaje4_rVuWBhsk7nmu9aS3vR-bmHXuP2E_uH9-r_GmICCg_OvRHNKeQPIsJHBGceLpcP34ZVSb0xU1nO78Hv7_kDi0OdzNc2ZoDs-zczG0mosLfT4hEo8BcBO_uzh-MAhZDwZchyzuUd0TkkwCCJO3ttvtUjjP_dNWY15uc5OQohZF8JjuIOz7GsT2hPNS33efjhumbslkF2QvtbCZfZj1Lfsa5V1qej5BjX81-bqZr__36_DUBq9L5xL3Kaytl43jVNSk1r3AE7ZsA/media?maxWidthPx=1600&key=AIzaSyCJVURg2aWUACuHsIKOiqXlCdI6MACICEQ",
+      "width_px": 2540,
+      "height_px": 3307,
+      "source": "google_places"
+    }
+  ],
+  "map": {
+    "center": {
+      "lat": 37.7957457,
+      "lng": -122.4048897
+    },
+    "region": {
+      "lat_delta": 0.003,
+      "lng_delta": 0.0052774
+    },
+    "stops": [
+      {
+        "order": 0,
+        "poi_id": "portsmouth-square-park",
+        "name": "Portsmouth Square Park",
+        "type": "park/plaza",
+        "teaser": "Birthplace of civic San Francisco—where Gold Rush proclamations, hangings, and the city’s first public square set the stage for a boomtown.",
+        "lat": 37.7948896,
+        "lng": -122.4052341
+      },
+      {
+        "order": 1,
+        "poi_id": "transamerica-pyramid",
+        "name": "Transamerica Pyramid",
+        "type": "landmark/site",
+        "teaser": "On this ground stood the Montgomery Block, the Barbary Coast’s famed literary and legal hive—later replaced by the modern pyramid that now anchors San Francisco’s Financial District.",
+        "lat": 37.79517750000001,
+        "lng": -122.4027787
+      },
+      {
+        "order": 2,
+        "poi_id": "belli-building",
+        "name": "Belli Building",
+        "type": "historic building",
+        "teaser": "An 1850s survivor of the old waterfront district—later the lair of ‘King of Torts’ Melvin Belli—echoing law, lore, and Barbary Coast grit.",
+        "lat": 37.7960825,
+        "lng": -122.4033337
+      },
+      {
+        "order": 3,
+        "poi_id": "golden-era-building",
+        "name": "Golden Era Building",
+        "type": "historic commercial building",
+        "teaser": "Home to an 1850s literary weekly, this survivor echoes the voices that chronicled San Francisco’s bawdy rise.",
+        "lat": 37.79610419999999,
+        "lng": -122.4033381
+      },
+      {
+        "order": 4,
+        "poi_id": "hotaling-pl",
+        "name": "Hotaling Pl",
+        "type": "alley/plaque",
+        "teaser": "A cobbled lane where whiskey ‘saved’ by firefighters became legend—immortalized by the cheeky 1906 poem about God and Hotaling’s.",
+        "lat": 37.7962844,
+        "lng": -122.4029015
+      },
+      {
+        "order": 5,
+        "poi_id": "hotaling-building",
+        "name": "Hotaling Building",
+        "type": "historic warehouse/commercial building",
+        "teaser": "Saved from the 1906 flames—along with thousands of barrels of whiskey—this alley-front landmark tells of commerce, vice, and grit.",
+        "lat": 37.7963502,
+        "lng": -122.4028237
+      },
+      {
+        "order": 6,
+        "poi_id": "comstock-saloon",
+        "name": "Comstock Saloon",
+        "type": "bar/saloon",
+        "teaser": "A restored 1907 saloon at Pacific—once the Barbary Coast’s main drag—where the feel of vice-district nightlife lingers.",
+        "lat": 37.7969344,
+        "lng": -122.4055602
+      },
+      {
+        "order": 7,
+        "poi_id": "tin-how-temple",
+        "name": "Tin How Temple",
+        "type": "temple/shrine",
+        "teaser": "Climb to this Mazu shrine tied to early Chinese migrants—spiritual ballast for sailors and merchants in the boomtown’s chaos.",
+        "lat": 37.7945571,
+        "lng": -122.4070006
+      }
+    ]
+  }
+}

@@ -1,0 +1,290 @@
+{
+  "schema_version": "1.0",
+  "published_at": "2026-03-18T00:17:52Z",
+  "tour_id": "gold_rush",
+  "tour_title": "Gold Rush to Boomtown",
+  "city": "San Francisco",
+  "city_code": "sfo",
+  "description": "From a muddy Gold Rush settlement to a booming port city—discover the streets, saloons, and scandals that shaped early San Francisco.",
+  "mode": "walking",
+  "effort_level": "moderate",
+  "lang": "en",
+  "themes": [
+    "gold_rush",
+    "barbary_coast",
+    "boomtown"
+  ],
+  "area_label": "Portsmouth Square",
+  "time_window": "daytime",
+  "seasons": [
+    "all_year"
+  ],
+  "summary": {
+    "mode": "walking",
+    "effort_level": "moderate",
+    "stop_count": 8,
+    "est_duration_min": 97,
+    "est_distance_km": 1.16
+  },
+  "map": {
+    "region": {
+      "center": {
+        "lat": 37.795797,
+        "lng": -122.404121
+      },
+      "radius_m": 408
+    }
+  },
+  "route_polyline": null,
+  "route_segments": [
+    {
+      "from_poi_id": "portsmouth-square-park",
+      "to_poi_id": "transamerica-pyramid",
+      "polyline": "qxteF`gbjVPC@ABE@??A@?@?F?J@_wteFtfbjVBODGuvteF|ebjVEm@B?AA?GC_@AMAOCUAOIsAEe@AQC_@?IE@?AI[mxteFnzajVG@g@FQ@"
+    },
+    {
+      "from_poi_id": "transamerica-pyramid",
+      "to_poi_id": "belli-building",
+      "polyline": "ozteFzzajVC?A@q@HA?C?E??A]D?DQBM@Q?C@c@DC@"
+    },
+    {
+      "from_poi_id": "belli-building",
+      "to_poi_id": "golden-era-building",
+      "polyline": "o`ueF`|ajVA?"
+    },
+    {
+      "from_poi_id": "golden-era-building",
+      "to_poi_id": "hotaling-pl",
+      "polyline": "q`ueF`|ajVq@HC@E?mbueFl|ajVAUGaAAE"
+    },
+    {
+      "from_poi_id": "hotaling-pl",
+      "to_poi_id": "hotaling-building",
+      "polyline": "ybueFjyajVAMAS"
+    },
+    {
+      "from_poi_id": "hotaling-building",
+      "to_poi_id": "comstock-saloon",
+      "polyline": "}bueFhxajV@R@H?F@DF`A@T@?B^A?@J@V@D@TBV?B@P@P@A?@Fz@AB?@qaueFncbjVOX?GGHYf@KNABKRIL@?a@h@EDU\\"
+    },
+    {
+      "from_poi_id": "comstock-saloon",
+      "to_poi_id": "tin-how-temple",
+      "polyline": "cfueFvibjVGLkfueFdjbjV@PBPDl@?DF|@?VBL?BB^?DB?@VieueFbrbjVl@IPAj@GJC`@ETCn@IJAr@Kb@EDA_{teF`pbjV?FHbA?B@N@FqzteFhsbjVRCDAHAb@EHAZE"
+    }
+  ],
+  "actual_start_id": "portsmouth-square-park",
+  "stops": [
+    {
+      "poi_id": "portsmouth-square-park",
+      "name": "Portsmouth Square Park",
+      "spoken_name": "Porstmouth Square Park",
+      "lat": 37.7948896,
+      "lng": -122.4052341,
+      "address": "745 Kearny St, San Francisco, CA 94108, United States",
+      "type": "park/plaza",
+      "teaser": "Birthplace of civic San Francisco—where Gold Rush proclamations, hangings, and the city’s first public square set the stage for a boomtown.",
+      "wide_area": true,
+      "visit_hours": null,
+      "narration_text": "Take a look around this green square. Chess tables, kids’ playground, elders practicing tai chi. Hard to picture it—but this little patch of ground once sat at the boiling center of the wildest boomtown on the Pacific coast.\n\nBack in the 1840s, this place had a softer name: <phoneme alphabet=\"ipa\" ph=\"ˈjɛr.bə ˈbweɪ.nə\">Yerba Buena</phoneme> Plaza. Just a dusty town square above a small cove. A few wooden houses. Wind off the bay. Cows wandering through the streets.\n\nThen July 1846. Out in the harbor sits the U.S. warship Portsmouth. Its captain, John B. Montgomery, marches up here with sailors and Marines. Right on this plaza, he raises the American flag and claims the town for the United States. No battle. Just a flag going up, and suddenly Mexican California is slipping away.\n\nTwo years later, 1848, the Treaty of Guadalupe Hidalgo makes it official. California now belongs to the United States.\n\nAnd in that exact same year—history decides things are moving too slowly—gold is discovered at Sutter’s Mill.\n\nThis square explodes.\n\nShips pour into the bay. Sailors desert. Merchants arrive. Farmers abandon fields. People flood in from Chile, Peru, Mexico, China, Australia. Americans stream across Panama and Nicaragua, hacking through jungle transit routes just to shave weeks off the journey.\n\nThey all funnel through here.\n\nPicture the plaza in 1849. Canvas tents. Mud ankle‑deep. Boardinghouses crammed with strangers speaking a dozen languages. Pickaxes stacked beside whiskey barrels. Every conversation about one thing: gold.\n\nRight about here, a flamboyant Mormon newspaperman named Sam Brannan runs through the crowd holding up a bottle filled with gold dust, shouting one word—\"Gold!\"\n\nBrannan isn’t even a miner. He owns the supply stores. Every shovel and pan sells out within hours.\n\nThe population of San Francisco rockets from a sleepy village to a roaring boomtown almost overnight.\n\nJust beside this square in 1848, the city opens California’s first public school. Imagine the scene: children reciting lessons while outside gamblers shout, wagons rumble, and prospectors stagger through town half drunk on hope.\n\nHope… and fire.\n\nBetween 1849 and 1851, six catastrophic fires rip through the nearby waterfront. Wooden buildings packed tight, open flames everywhere, barrels of liquor, stores of gunpowder. When one structure catches, the whole district goes up like kindling. Entire blocks vanish in hours. Each time the city rebuilds—bigger, louder, more reckless.\n\nHead downhill from here in those days and you enter the Barbary Coast.\n\nDance halls. Gambling dens. Opium rooms. Brothels glowing with lantern light. Music spills into the streets all night long. Sailors vanish into crimping houses and wake up weeks later on ships halfway to Shanghai.\n\nCrime follows money. One gang dominates the streets—the Sydney Ducks, rough immigrants from Australia. Arson, robbery, intimidation. The city government can’t control them.\n\nSo the citizens take matters into their own hands.\n\nIn 1851, San Franciscans form the first Vigilance Committee. Armed merchants and shopkeepers acting as judge and jury. Their message is simple: order will be restored.\n\nThe square becomes their stage.\n\nA convicted burglar named John Jenkins is marched here before a crowd. A scaffold rises above the plaza. Thousands watch as the vigilantes hang him publicly—an unmistakable warning that the boomtown intends to police itself.\n\nJustice? Mob rule? People argued then, just like historians argue now.\n\nTensions run deeper. In 1850 the new state government passes the Foreign Miners Tax, forcing non‑citizen miners—many of them Chinese and Latin American—to pay heavy fees just to work claims. Ethnic resentment simmers. Boardinghouses around these hills pack tight with displaced miners and laborers trying to survive a city that welcomes their labor but mistrusts their presence.\n\nYet the square keeps pulling everyone together.\n\nIn 1859, thousands gather here again—this time in grief. U.S. Senator David Broderick has died after a duel tied to bitter political divisions over slavery. His funeral procession moves through the city and ends here. Witnesses say the plaza fills with weeping crowds, shoulder to shoulder.\n\nYears pass. The frenzy cools. The goldfields thin out. San Francisco settles into something more permanent.\n\nAnd one day, in the 1870s, a thin, struggling writer sits around this very square watching the city swirl by. He’s broke, a little sickly, soaking up stories wherever he can find them.\n\nHis name is Robert Louis Stevenson.\n\nRight here, on benches or dusty steps, he sketches ideas about adventure, rogues, and faraway seas—material that will later help shape classics like Treasure Island.\n\nSo beneath the quiet chess games and rustling trees, this ground holds layer after layer of human drama—flags raised, fortunes chased, fires raging, vigilantes judging, dreamers arriving with pockets full of hope.",
+      "narration_audio": "audio/stops/portsmouth-square-park.m4a",
+      "name_audio": "audio/stop_names/portsmouth-square-park.m4a",
+      "images": []
+    },
+    {
+      "poi_id": "transamerica-pyramid",
+      "name": "Transamerica Pyramid",
+      "spoken_name": "Transamerica Pyramid",
+      "lat": 37.79517750000001,
+      "lng": -122.4027787,
+      "address": "600 Montgomery St, San Francisco, CA 94111, United States",
+      "type": "landmark/site",
+      "teaser": "On this ground stood the Montgomery Block, the Barbary Coast’s famed literary and legal hive—later replaced by the modern pyramid that now anchors San Francisco’s Financial District.",
+      "wide_area": true,
+      "visit_hours": [
+        "Monday: 8:00 AM – 5:00 PM",
+        "Tuesday: 8:00 AM – 5:00 PM",
+        "Wednesday: 8:00 AM – 5:00 PM",
+        "Thursday: 8:00 AM – 5:00 PM",
+        "Friday: 8:00 AM – 5:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ],
+      "narration_text": "Look up for a second. That sharp white pyramid rising 853 feet into the fog—that’s the Transamerica Pyramid. Quartz‑covered concrete, clean edges, almost impossibly narrow at the top. It feels futuristic. But the ground under your shoes? That’s pure Gold Rush chaos.\n\nRight here, in 1849, you’d be ankle‑deep in seawater. Montgomery Street marked the actual shoreline of San Francisco Bay. Waves lapped somewhere around where we’re standing. Clipper ships crowded the harbor just offshore, tall masts creaking, canvas snapping in the wind. They’d crossed half the planet to get here. Gold had turned this muddy edge of the Pacific into the center of global trade almost overnight.\n\nNews moved fast for the 1850s. Telegraph lines arrived in 1853. Steamships churned into the harbor carrying letters, newspapers, rumors, fortunes. San Francisco became a boomtown plugged into the world. And just beside us—buried under the landfill that pushed the shoreline outward—lies one of those ships. The Gold Rush vessel Niantic. Abandoned, entombed, still down there beneath the streets.\n\nNow picture the scene in the 1850s. Saloons, gambling dens, boarding houses. The nearby waterfront alleys belonged to the Barbary Coast—especially a rough crowd called the Sydney Ducks, criminals shipped from Australia who ran gangs, fires, and street violence in this district. It was noisy, smoky, unpredictable. Exactly the sort of place fortunes were made fast—and lost faster.\n\nThen in 1853, something more refined rose right here. A four‑story brick building planted on hundreds of redwood piles hammered deep into the mud of <phoneme alphabet=\"ipa\" ph=\"ˈjɛrbə ˈbwɛnə\">Yerba Buena</phoneme> Cove. Redwood doesn’t rot underwater, so the building basically floated on a forest of timber posts.\n\nThey called it the Montgomery Block. Soon everyone called it the “Monkey Block.”\n\nThe nickname wasn’t flattering. Writers, artists, journalists, lawyers, political schemers—they all rented rooms upstairs. Loud arguments spilled into the halls. Ideas bounced around like monkeys in a cage. But it became the intellectual center of early San Francisco.\n\nAnd the bar downstairs helped.\n\nThat bar created one of the city’s most infamous drinks: Pisco Punch. Sweet, smooth, tropical. People said it tasted harmless. Then it quietly knocked you sideways. Visitors learned the hard way.\n\nUpstairs, the conversations weren’t just literary. Decades later, in quiet rented rooms, a young revolutionary named <phoneme alphabet=\"ipa\" ph=\"sun jat sʰən\">Sun Yat-sen</phoneme> held secret meetings here while raising support for the uprising that would topple China’s Qing dynasty in 1911. San Francisco’s Chinese community played a crucial role in that movement. So in these upstairs rooms, a revolution was quietly being organized half a world away.\n\nThe Monkey Block survived the 1906 earthquake and fires—no small miracle in this district, where flames wiped out block after block. The disaster reshaped the entire financial district. It had happened before, too. Gold Rush fires kept leveling the city and forcing it to rebuild again and again.\n\nBut oddly enough, the Monkey Block’s final enemy wasn’t fire or earthquake.\n\nIt was redevelopment.\n\nIn 1959, the old building was demolished. The intellectual heart of early San Francisco—gone. For a while, this lot sat open, waiting for something bold.\n\nEnter banker Amadeo Giannini. The son of Italian immigrants who started the Bank of Italy—later Bank of America—believed banking should serve ordinary people, not just the wealthy. His business empire eventually produced a holding company called the Transamerica Corporation. And this site became its statement piece.\n\nThe engineers faced a challenge. The ground here is still old bay mud and landfill. Not exactly ideal for a skyscraper. When they built the foundation, crews poured concrete continuously for seventy‑two straight hours. Nonstop. Trucks, pumps, workers rotating shifts through day and night to create a single solid base.\n\nThe pyramid design wasn’t just dramatic—it was practical. Those two vertical wings on the sides? They hide elevators and stairwells. More importantly, they stiffen the structure against wind and earthquakes.\n\nThat design got a real test in 1989 during the Loma Prieta earthquake. The tower famously swayed—but safely. Flexible, controlled movement. Exactly what engineers wanted.\n\nDown at the base, there’s something quieter. A small half‑acre grove of redwood trees. Tall, straight trunks rising between the buildings. They’re a living reminder of the forests that once covered the northern California coast when Gold Rush ships first sailed in.\n\nSo stand here a moment and stack the layers.\n\nUnder the pavement: the hull of a buried ship. Beneath the tower: redwood piles from a vanished shoreline. Above us: a pyramid of concrete and quartz built by twentieth‑century engineers. And somewhere in the middle of all that history, a long‑gone bar where the Pisco Punch was strong enough to flatten half the room.",
+      "narration_audio": "audio/stops/transamerica-pyramid.m4a",
+      "name_audio": "audio/stop_names/transamerica-pyramid.m4a",
+      "images": []
+    },
+    {
+      "poi_id": "belli-building",
+      "name": "Belli Building",
+      "spoken_name": "Belli Building",
+      "lat": 37.7960825,
+      "lng": -122.4033337,
+      "address": "722-726 Montgomery St, San Francisco, CA 94111, United States",
+      "type": "historic building",
+      "teaser": "An 1850s survivor of the old waterfront district—later the lair of ‘King of Torts’ Melvin Belli—echoing law, lore, and Barbary Coast grit.",
+      "wide_area": true,
+      "visit_hours": null,
+      "narration_text": "Take a look at the brick building in front of you—722 to 726 Montgomery. Tall windows, solid nineteenth‑century proportions, the kind of structure that looks calm now but has seen some truly unruly decades. This went up in 1851, right in the thick of the Gold Rush waterfront boom.\n\nHard to picture today, but Montgomery Street used to sit right on the edge of the bay. Where you’re standing was muddy tidal shoreline. Ships crowded the water just beyond—clipper ships from around the world, river steamers heading inland toward the mines. Ropes creaked, gulls screamed, and the air carried a sharp mix of salt water, tar, wet timber, and whiskey.\n\nPeople poured in nonstop. Thousands arriving by the Panama route—weeks of sea travel, a brutal crossing of the jungle isthmus, then another ship north. They stepped onto the wharves exhausted, half broke, and desperate to catch up with the gold rush already roaring inland.\n\nAnd this block? It was where they came to gear up.\n\nMerchants filled buildings like this one. One of them, Joseph Genella, sold ceramics and supplies for miners heading toward the Sierra. Plates, cups, bowls—mundane objects, but essential for camps where everything had to be hauled by mule or back. Prospectors swaggered through these doors with raw gold dust tucked into leather pokes. No banknotes, no credit cards—just little piles of glitter poured onto the counter. Shopkeepers kept scales beside the register.\n\nImagine the sound inside. Boots on plank floors. The clink of metal weights. Someone arguing over the value of a pinch of dust.\n\nUpstairs, something quieter but equally ambitious was happening. In 1849, the first California Masonic Lodge organized here. San Francisco was chaos—mud streets, gambling halls, drunken fights—but these men wanted order, ritual, fraternity. Meetings above the noise of the waterfront. Candles, secret handshakes, the hope that civilization might catch up with the gold rush.\n\nStep outside again and civilization looked… questionable.\n\nJust down the street operated the Bella Union saloon, one of the loudest gathering places in early San Francisco. Miners, gamblers, actors, drifters—everyone ended up there eventually. A young journalist named <phoneme alphabet=\"ipa\" ph=\"mɑrk tweɪn\">Mark Twain</phoneme> spent time inside, soaking up stories he would later twist into writing.\n\nNext door, another writer watched the same human circus: <phoneme alphabet=\"ipa\" ph=\"brɛt hɑrt\">Bret Harte</phoneme>. Harte mined local gossip and street life for his frontier tales. The characters weren’t invented from thin air. They walked these sidewalks daily—miners flashing gold dust, gamblers chasing luck, and plenty of people who had come west running from something.\n\nNot all of them were harmless.\n\nThis waterfront was the edge of the Barbary Coast, a district famous for drinking, gambling, prostitution, and organized crime. One gang in particular—the Sydney Ducks—terrorized the wharves. Many were former convicts transported from Australia, and they ran arson rings, robberies, and protection rackets along the waterfront blocks.\n\nMerchants here slept lightly. Fires broke out mysteriously. Warehouses vanished overnight.\n\nEventually the city’s patience snapped. Vigilante groups—armed citizens, essentially—organized to hunt the gangs down. It was rough justice. Public hangings. Exile. But it pushed the Sydney Ducks out and brought a fragile order to streets like this.\n\nEven so, darker stories lingered. Basements in this neighborhood were rumored to connect through tunnels—passages leading toward Barbary Coast boardinghouses. The stories say kidnapped sailors were dragged through them, “shanghaied” onto ships needing crew. Drugged, beaten, and sold into voyages they never agreed to.\n\nWhether every tunnel story is true or not, sailors did disappear here. The demand for crews was relentless.\n\nTime rolled on. The shoreline moved farther east as land was filled in. Ships vanished from Montgomery Street. Banks and office towers replaced saloons. Many Gold Rush buildings were demolished block by block.\n\nThis one almost went with them.\n\nIn the 1950s, urban renewal plans wiped out much of the old waterfront district. Historic blocks disappeared under modern development. The Belli Building narrowly escaped that wave.\n\nIts unlikely savior arrived in 1959—attorney Melvin Belli.\n\nBelli was not a quiet preservationist. He was one of the most flamboyant trial lawyers in America. Loved headlines. Loved spectacle. When he bought the building, he restored its nineteenth‑century grandeur—polished wood, dramatic offices, the whole stage set for legal drama.\n\nAnd when he won a major case?\n\nHe celebrated like a pirate.\n\nBelli installed cannons on the roof. When a big courtroom victory came in, he fired them over Montgomery Street. Loud. Sudden. Completely illegal today.\n\nThen came the flag. A black Jolly Roger hoisted above the building—his signal to the city that another legal conquest had been won below.\n\nBankers, brokers, and office workers would glance up from the financial district and see a pirate flag flapping over this Gold Rush relic.\n\nFor a moment, the old Barbary Coast spirit was back on Montgomery Street.",
+      "narration_audio": "audio/stops/belli-building.m4a",
+      "name_audio": "audio/stop_names/belli-building.m4a",
+      "images": []
+    },
+    {
+      "poi_id": "golden-era-building",
+      "name": "Golden Era Building",
+      "spoken_name": "Golden Era Building",
+      "lat": 37.79610419999999,
+      "lng": -122.4033381,
+      "address": "732 Montgomery St, San Francisco, CA 94111, United States",
+      "type": "historic commercial building",
+      "teaser": "Home to an 1850s literary weekly, this survivor echoes the voices that chronicled San Francisco’s bawdy rise.",
+      "wide_area": true,
+      "visit_hours": null,
+      "narration_text": "Take a look at the sturdy brick building right here at 732 Montgomery. Plain, compact, almost modest. Red brick. Thick walls. Windows stacked in tidy rows. In the early 1850s this would have looked unusually solid—almost stubborn—because most of the city around it was flimsy wood. Canvas roofs. Board sidewalks. Structures thrown together fast for a boomtown that expected to burn down sooner or later.\n\nThis one went up in 1852. Brick, heavy, fire‑resistant. That decision turned out to be very wise. Fires swept through this district again and again, and those thick walls kept saving the block.\n\nStand here a moment and imagine the shoreline. In 1850 the water of San Francisco Bay lapped only a short distance from where you’re standing. Ships crowded the harbor so tightly their masts looked like a forest. Sailors deserted their vessels to chase gold. Some of those abandoned ships were dragged onto land and turned into warehouses, hotels, even jails.\n\nAnd right here—on what was basically the edge of the sea—writers started shaping the mythology of the Gold Rush.\n\nUpstairs in this building lived the offices of a scrappy literary magazine called the Golden Era. It was founded by two young men who were both just twenty‑one years old. Twenty‑one. In a city where fortunes rose and collapsed overnight, that felt perfectly normal.\n\nThey weren’t publishing polite East Coast literature. They were bottling the chaos of California.\n\nMiners scattered across the Sierra Nevada were desperate for news from the city. Not just politics or prices—stories. Gossip. Scandals. The Golden Era delivered all of it. Copies traveled by stagecoach into mountain camps. Some miners paid their subscriptions by literally mailing envelopes of gold dust to San Francisco.\n\nThink about that. A magazine paid for with raw gold scraped from riverbeds.\n\nInside these rooms, writers turned the boomtown into legend.\n\nIn 1864 a young journalist walked through that door: Samuel Clemens. You know him better as Mark Twain. He had already bounced around the West trying—and failing—at several jobs, including mining. Writing was what stuck.\n\nHere he sharpened the voice that would make him famous: quick, skeptical, funny, a little dangerous. San Francisco was perfect material. Corrupt politicians. Get‑rich‑quick schemes. Wild personalities everywhere you looked.\n\nAnother writer here, Bret Harte, began crafting short stories about the mining camps. Not the heroic version people back East imagined. Harte wrote about gamblers, drifters, exhausted prospectors, people clinging to luck. Those stories helped define how Americans pictured the Gold Rush for generations.\n\nAnd then there was the poet <phoneme alphabet=\"ipa\" ph=\"wɑːˈkiːn\">Joaquin</phoneme> Miller. Dramatic fellow. Long hair, frontier reputation, a man who liked to cultivate legend around himself. Miller wrote poems about the Sierra Nevada—the mountains where hydraulic mining was tearing entire hillsides apart.\n\nHydraulic mining was brutal engineering. Miners blasted mountains with powerful jets of water, washing millions of tons of earth into sluices to catch tiny flakes of gold. It made some investors rich very quickly.\n\nBut the debris—mud, gravel, pulverized rock—poured down the rivers toward the Central Valley. Farms flooded. Rivers clogged. Towns downstream buried in sediment. Meanwhile merchants here in San Francisco prospered selling equipment, supplies, banking services. Wealth flowed downhill to the city.\n\nThe Golden Era printed stories celebrating the frontier… and sometimes quietly acknowledging the wreckage it left behind.\n\nIts opinion pages also carried fierce arguments about the Foreign Miners Tax. That tax targeted immigrant miners—especially Chinese and Latin American workers—forcing them to pay special fees just to dig for gold. The debates were ugly. Ethnic tensions simmered across California, and newspapers like this one became battlegrounds for those arguments.\n\nBut the magazine also fed another appetite: gossip from the Barbary Coast.\n\nJust a few blocks away lay San Francisco’s wildest district—dance halls, gambling dens, opium houses, crimping joints where sailors were kidnapped and forced onto ships. Editors here gathered the juiciest rumors and printed them for readers hundreds of miles away in lonely mining camps.\n\nPicture a miner after a long day shoveling gravel beside a freezing river. He opens a crinkled newspaper shipped from San Francisco. Inside—stories of city scandals, crooked politicians, wild nights on the Barbary Coast. The boomtown suddenly feels close again.\n\nAnd those stories didn’t stop in California. By the 1860s telegraph wires stitched the continent together. Fast steamships crossed the Pacific and Atlantic. Articles written in this building could reach New York, London, even Australia in weeks instead of months.\n\nSan Francisco was no longer just a rough port. It was becoming a cultural exporter.\n\nLook down the street toward the Transamerica Pyramid. Before that modern tower existed, a massive 19th‑century building stood nearby: Montgomery Block. Artists, lawyers, writers, bohemians packed its offices. Twain spent time there too. For a while this neighborhood became the intellectual heart of the young city.\n\nAnd through all of it, this brick survivor just kept standing.\n\nWhen the 1906 earthquake ripped through San Francisco, buildings collapsed across downtown. Then came the fires—three days of burning that devoured block after block. Flames swept around this neighborhood.\n\nBut these brick walls held.\n\nThe Golden Era Building emerged from the disaster almost untouched while much of the city around it turned to ash.\n\nOne more curious detail. Local lore says underground tunnels once ran beneath this block—connecting print shops like this one to nearby saloons and Barbary Coast establishments. Supposedly they carried paper, ink, maybe even people who preferred not to be seen on the street.\n\nWhether every tunnel existed or not, the idea fits the place.\n\nAbove ground: writers crafting the legend of California.\nBelow ground: the restless machinery of a boomtown running day and night.",
+      "narration_audio": "audio/stops/golden-era-building.m4a",
+      "name_audio": "audio/stop_names/golden-era-building.m4a",
+      "images": []
+    },
+    {
+      "poi_id": "hotaling-pl",
+      "name": "Hotaling Pl",
+      "spoken_name": "Hotaling Place",
+      "lat": 37.7962844,
+      "lng": -122.4029015,
+      "address": "Hotaling Pl, San Francisco, CA 94111, USA",
+      "type": "alley/plaque",
+      "teaser": "A cobbled lane where whiskey ‘saved’ by firefighters became legend—immortalized by the cheeky 1906 poem about God and Hotaling’s.",
+      "wide_area": true,
+      "visit_hours": null,
+      "narration_text": "Take a look down this narrow brick alley. Uneven cobblestones underfoot. Tall warehouse walls close on both sides. Quiet now—almost too quiet for a place that once ran on liquor, violence, and luck.\n\nIn the 1850s, the shoreline sat just beyond this lane. Where we’re standing was practically the edge of the bay. Salt water sloshed in and out with the tides. Ships crowded the harbor so tightly their masts looked like a forest.\n\nAnd many of those ships never left.\n\nGold fever emptied crews overnight. Sailors jumped ship, ran for the Sierra mines, vanished into the hills chasing nuggets. Captains were left with vessels and no crews. Some ships were abandoned entirely—scuttled, filled with rubble, buried as the city pushed the shoreline outward. Beneath these cobblestones lie the hulls of Gold Rush ships, entombed under layers of landfill, brick, and business deals.\n\nThis whole district grew on top of them. San Francisco literally built itself over its own abandoned fleet.\n\nNow picture the alley in those early years—mud instead of stone, lantern light flickering in fog rolling off the bay. Boardinghouses packed with rough miners. Saloons roaring day and night. Just a few blocks away, the Bella Union casino blasted music and gambling around the clock.\n\nWhere there’s money and alcohol, darker trades follow.\n\nThis neighborhood was prime territory for \"crimps.\" Their business was kidnapping sailors. A drunk seaman leaving a saloon might wake up locked in a ship’s hold, already signed onto a voyage around Cape Horn. Forged contracts. Knockout drops in whiskey. Clubs to the back of the head. By the time the victim understood what happened, the Golden Gate was already disappearing behind the ship.\n\nEntire crews were assembled this way.\n\nHovering around the saloons were the Sydney Ducks—an infamous gang of Australian ex-convicts. They dominated nearby boardinghouses and waterfront dives. Tough, organized, and completely comfortable with arson, robbery, or murder if it meant control of the waterfront economy.\n\nSan Francisco was barely governed then. Which is why, in 1851, citizens formed the Vigilance Committee. They took justice into their own hands. Trials were quick. Verdicts quicker. And notorious killers were hanged not far from this alley—close enough that the crowd noise would have carried right down here.\n\nThat’s the atmosphere this little lane grew up in.\n\nThen came the man who changed its destiny: Anson Parsons Hotaling.\n\nHotaling was a merchant with sharp instincts and a simple insight—miners might strike gold only once, but they drank every single day. He built a whiskey empire supplying saloons across the mining frontier. Barrels rolled through this alley by the thousands, stacked inside brick warehouses designed purely for storage and shipping.\n\nStand here a moment and imagine the smell—oak barrels, spilled rye, damp wood, salt air from the bay. Freight wagons rumbling in and out. Teamsters shouting. This alley humming with commerce fueled by thirst.\n\nThe warehouses around you date from the 1860s. Thick brick walls. Heavy iron shutters. Practical buildings, built to protect inventory worth small fortunes.\n\nThose shutters would prove unexpectedly important.\n\nIn 1906, the great earthquake hit before dawn. Buildings collapsed across the city. Gas lines snapped. Fires ignited everywhere. For three days flames marched through San Francisco, block after block.\n\nWhen the fire reached this district, the heat was intense enough to ignite wood from across the street. Warehouses glowed like ovens. But the iron shutters here sealed the openings. Fireboats offshore pumped saltwater inland, drenching the buildings and soaking the brick.\n\nAgainst the odds, Hotaling’s whiskey warehouses survived.\n\nChurches across the city burned. Banks collapsed. Homes vanished. But the whiskey—barrel after barrel—remained intact. The irony wasn’t lost on anyone. A local poem soon circulated around town, joking that while churches had gone up in flames, the Almighty somehow spared the whiskey.\n\nSan Franciscans appreciated the humor. And probably the surviving supply.\n\nLook closely at the brickwork around you. Much of it is still the original unreinforced masonry from the 1860s. These walls have now endured two major earthquakes—and they’re still standing.\n\nBy the mid‑20th century, though, this alley had slipped into neglect. The liquor trade moved elsewhere. Warehouses sat half empty. The waterfront economy had shifted.\n\nThen in the 1950s, designers and developers looked at these gritty old booze alleys and saw something else—character. Texture. History you could touch. They converted the old warehouses into boutiques, studios, and offices, turning a forgotten service lane into one of the city’s most atmospheric little streets.\n\nAnd the skyline nearby kept changing too. Not far from here once stood the legendary Montgomery Block—an artists’ and writers’ hangout for decades. When it was demolished, the cleared ground eventually made room for something very different: the sharp white pyramid of the Transamerica building rising above the district today.\n\nSo in this one short alley, you’re standing on top of buried Gold Rush ships… surrounded by 1860s brick that survived firestorms and earthquakes… in a space once ruled by kidnappers, gangs, gamblers, and whiskey merchants.\n\nAnd somehow—against the habits of boomtown history—it’s all still here.",
+      "narration_audio": "audio/stops/hotaling-pl.m4a",
+      "name_audio": "audio/stop_names/hotaling-pl.m4a",
+      "images": []
+    },
+    {
+      "poi_id": "hotaling-building",
+      "name": "Hotaling Building",
+      "spoken_name": "Hotaling Building",
+      "lat": 37.7963502,
+      "lng": -122.4028237,
+      "address": "451 Jackson St, San Francisco, CA 94111, United States",
+      "type": "historic warehouse/commercial building",
+      "teaser": "Saved from the 1906 flames—along with thousands of barrels of whiskey—this alley-front landmark tells of commerce, vice, and grit.",
+      "wide_area": true,
+      "visit_hours": null,
+      "narration_text": "Take a look at the brick building right in front of you—four stories, sturdy, a little austere. Iron shutters on the windows. Italianate trim along the roofline. At street level it looks respectable… almost restrained. But inside, the place was built to hold a small ocean of whiskey.\n\nThis went up in 1866, purpose‑built for one thing: storing A. P. Hotaling’s liquor. Not wine. Not groceries. Whiskey. The interior was engineered like a vault. Massive iron columns. Heavy iron beams. A skeleton strong enough to support about two thousand barrels stacked inside during the height of the boom. Imagine the smell in summer—oak, raw alcohol, damp wood, the sweet bite of bourbon fumes drifting out into the street.\n\nHotaling himself was a sharp reader of human weakness. During the Gold Rush, everyone else chased gold with pickaxes and shovels. He watched the miners instead. Tired, lonely, often broke. What did they want at the end of a brutal day? A drink. So Hotaling quietly abandoned the mining supply trade and gambled everything on bourbon. While fortunes in gold came and went, thirst was dependable.\n\nNow here’s the strange part about where we’re standing. In 1849 this wasn’t really land yet. The shoreline of <phoneme alphabet=\"ipa\" ph=\"ˈjɜːrbə ˈbwɛnə\">Yerba Buena</phoneme> Cove ran along the far side of this block. Ships packed the harbor—hundreds of them. When crews deserted for the gold fields, many vessels were simply abandoned. The city buried them. Literally. Hulls filled with sand, debris, anything available. Then buildings rose on top.\n\nSo beneath this warehouse foundation? Old ships. Layers of landfill. Later, more rubble—especially after 1906, when earthquake debris was dumped here to finish filling the cove. The ground under your feet is a patchwork of maritime leftovers and disaster cleanup.\n\nBack in the 1800s this neighborhood sat right next to the Barbary Coast, one of the wildest districts in North America. Saloons, gambling dens, dance halls—places designed to separate miners from their gold dust fast. Some establishments ran an especially brutal side business called shanghaiing. A drunk patron might wake up days later locked in the hold of a ship, already out in the Pacific, forced into work as a sailor.\n\nAnd right nearby were warehouses like this one, feeding the cycle. Boomtown miners drank whatever arrived by barrel—often harsh, young spirits shipped through this very building. Smooth aging was a luxury. What mattered was strength.\n\nThe neighborhood attracted colorful characters long after the Gold Rush too. One of the later neighbors was flamboyant San Francisco attorney Melvin Belli. From the roof of his nearby office he liked to fly pirate flags—because subtlety was not his style.\n\nBut the building’s most famous moment came in April 1906.\n\nThe earthquake shattered San Francisco just before dawn. Fires followed—huge, wind‑driven walls of flame that rolled across the city for days. As they pushed toward this district, warehouses and docks became perfect fuel. Flames crept block by block toward Hotaling’s enormous liquor supply.\n\nAnd if you think about it, two thousand barrels of whiskey in a fire zone is… not ideal.\n\nHeat surged down Jackson Street. Windows cracked. Buildings collapsed. But Hotaling’s warehouse had one advantage: those iron shutters you see. Workers slammed them closed. Thick metal shields against the radiant heat.\n\nMeanwhile the U.S. Navy rushed in with a desperate tactic. Sailors ran hoses up Telegraph Hill and pumped seawater from the bay—thousands of gallons—pouring it down over the neighborhood. Buildings were soaked. Streets turned to mud. This block was drenched again and again while flames roared nearby.\n\nBy sheer luck, stubborn construction, and a lot of seawater… the building survived. The whiskey survived too.\n\nAnd San Franciscans, who appreciate irony almost as much as liquor, quickly immortalized the event with a little poem that spread across the city. It went:\n\n\"If, as they say, God spanked the town\nFor being over frisky,\nWhy did He burn the churches down\nAnd save Hotaling’s whiskey?\"}",
+      "narration_audio": "audio/stops/hotaling-building.m4a",
+      "name_audio": "audio/stop_names/hotaling-building.m4a",
+      "images": []
+    },
+    {
+      "poi_id": "comstock-saloon",
+      "name": "Comstock Saloon",
+      "spoken_name": "Comstock Saloon",
+      "lat": 37.7969344,
+      "lng": -122.4055602,
+      "address": "155 Columbus Ave, San Francisco, CA 94133, United States",
+      "type": "bar/saloon",
+      "teaser": "A restored 1907 saloon at Pacific—once the Barbary Coast’s main drag—where the feel of vice-district nightlife lingers.",
+      "wide_area": true,
+      "visit_hours": [
+        "Monday: Closed",
+        "Tuesday: 4:00 PM – 12:00 AM",
+        "Wednesday: 4:00 PM – 12:00 AM",
+        "Thursday: 4:00 PM – 12:00 AM",
+        "Friday: 12:00 PM – 12:00 AM",
+        "Saturday: 4:00 PM – 12:00 AM",
+        "Sunday: Closed"
+      ],
+      "narration_text": "Take a look inside before we talk. See that long bar—dark, glossy, almost glowing under the lights? That’s solid mahogany from 1907. It’s been right there since the building went up. Above it, those slow belt‑driven fans turning lazily in the air—those are antiques too, still doing their quiet work more than a century later.\n\nAnd right down along the base of the bar, those old white tiles with the shallow channel? That was a trough. Not decorative. It caught the urine of patrons who didn’t want to leave their drink or their game long enough to find a proper toilet. This corner of the city ran on whiskey, money, and very loose ideas about manners.\n\nThe place first opened as the Andromeda Saloon. Sailors drifted in from the nearby waterfront. Longshoremen. Miners passing through with pockets full of silver money. And plenty of neighborhood rogues who knew opportunity when they saw it.\n\nThe building itself rose in 1907, right on top of the still‑smoldering rubble left by the 1906 earthquake and fire. Imagine this intersection then—ashes, twisted iron, brick piles still warm in places. San Francisco rebuilt fast. Investors poured money in almost immediately. Within a year, bars like this were pouring drinks again.\n\nAnd the name today—Comstock Saloon—points back to one of the wildest financial frenzies in the American West.\n\nIn 1859, up in Nevada, prospectors struck an immense vein of silver: the <phoneme alphabet=\"ipa\" ph=\"ˈkɑm.stɑk\">Comstock</phoneme> Lode. The discovery detonated a mining boom across the region. Silver poured out of the mountains. Speculators flooded San Francisco. Banks, stock exchanges, and brokerage houses sprang up almost overnight to trade mining shares.\n\nSan Francisco became the financial engine behind that silver rush.\n\nAnd the man whose name stuck to the strike—Henry Comstock—barely benefited from it. He had attached his name to the claim early, then sold his interest before the real wealth appeared. Others rode the boom. Comstock watched fortunes rise without him. He died broke. His name, though, stayed glued to one of the richest discoveries in mining history.\n\nThe money from that silver flowed right through neighborhoods like this one.\n\nStep outside and look around the corner. That copper‑green wedge of a building is the Sentinel Building. It survived the 1906 disaster and later became tied to film history. This whole intersection sits where Montgomery Avenue—today’s Columbus—cut through the old Barbary Coast district. When the city carved that street through, it sliced straight across a tangle of gambling dens, brothels, and dance halls.\n\nJust steps from here ran a stretch locals once called Terrific Street.\n\nAnd \"terrific\" didn’t mean pleasant.\n\nAt night the street throbbed—music spilling from dance halls, lights blazing, doors open to the noise. Prostitutes leaned from balconies. Musicians hammered pianos. Gambling rooms ran faro games that miners and sailors played with frightening speed. A man could walk in with a pouch of gold dust and stagger out an hour later with nothing but an empty pocket and a headache.\n\nThe games were often rigged. Faro dealers had tricks—hidden mechanics in the dealing boxes, subtle manipulations of the deck. Players suspected it. They played anyway.\n\nBecause sometimes luck did strike. And in a boomtown, hope was a powerful drug.\n\nThe waterfront nearby fed a darker business too. You heard earlier about Shanghai Kelly. His gangs prowled these blocks. Sailors drank in saloons not far from here, then vanished through trapdoors or back rooms, waking up days later aboard ships already heading out to sea. Kidnapped labor for the Pacific trade.\n\nBars like the Andromeda sat right in that ecosystem—part social club, part financial exchange, part hunting ground.\n\nThen came Prohibition in 1920.\n\nLegally, every bar in America had to shut down.\n\nThis one adapted. On paper it became a respectable café. Coffee. Food. No alcohol, officially. Behind the scenes… well, the glasses didn’t stay empty. Old saloons across San Francisco survived the same way—new signs out front, familiar bottles behind the counter.\n\nIf you step outside again and walk a short distance toward the old waterfront, you’d be standing over one of the strangest relics of the Gold Rush: the buried hull of the ship <phoneme alphabet=\"ipa\" ph=\"niːˈæn.tɪk\">Niantic</phoneme>. During the rush, ships arrived so fast that crews deserted them to chase gold. The Niantic was hauled ashore and repurposed as a warehouse. As the city built upward, the ship disappeared beneath the streets.\n\nSo under this neighborhood lie layers—ships, saloons, gambling rooms, rubble from a great fire, then new buildings rising again.\n\nAnd wandering these same corners in the 1800s was one of San Francisco’s strangest public figures: Emperor Norton. Self‑declared monarch of the United States, protector of the city. Locals humored him, sometimes even saluted him. Shopkeepers honored his handmade currency. He patrolled streets like this, issuing proclamations, inspecting the state of the city.\n\nPicture that scene for a moment.\n\nOutside: sailors, gamblers, dance‑hall music, and the clatter of carriage wheels. Inside: the mahogany bar crowded three deep, silver coins slapping the counter, faro cards snapping across green felt.\n\nAnd overhead, just like now, those slow fans turning quietly while fortunes—real or imagined—changed hands beneath them.",
+      "narration_audio": "audio/stops/comstock-saloon.m4a",
+      "name_audio": "audio/stop_names/comstock-saloon.m4a",
+      "images": []
+    },
+    {
+      "poi_id": "tin-how-temple",
+      "name": "Tin How Temple",
+      "spoken_name": "Tin How Temple",
+      "lat": 37.7945571,
+      "lng": -122.4070006,
+      "address": "125 Waverly Pl, San Francisco, CA 94108, United States",
+      "type": "temple/shrine",
+      "teaser": "Climb to this Mazu shrine tied to early Chinese migrants—spiritual ballast for sailors and merchants in the boomtown’s chaos.",
+      "wide_area": true,
+      "visit_hours": [
+        "Monday: 9:30 AM – 2:00 PM",
+        "Tuesday: 9:30 AM – 2:00 PM",
+        "Wednesday: 9:30 AM – 2:00 PM",
+        "Thursday: Closed",
+        "Friday: 9:30 AM – 2:00 PM",
+        "Saturday: 9:30 AM – 3:00 PM",
+        "Sunday: 9:30 AM – 3:00 PM"
+      ],
+      "narration_text": "Look up at the narrow doorway and the red lanterns above it. Nothing flashy from the street. Just a staircase climbing into the building. But at the top of those steps sits the oldest Chinese temple in San Francisco.\n\nTin How Temple was founded in 1852, right in the thick of the Gold Rush. The founders were Chinese immigrants who had crossed the Pacific chasing the same rumor that pulled half the world to California—gold in the hills. They built the temple to honor <phoneme alphabet=\"ipa\" ph=\"maːˈzuː\">Mazu</phoneme>, the sea goddess. Protector of sailors. Guardian of fishermen. The one you prayed to before trusting your life to the Pacific.\n\nThat ocean crossing was no small gamble. Wooden ships, months at sea, storms rolling across thousands of miles of open water. Many of the people who climbed these stairs believed they were alive only because Mazu carried them here.\n\nInside the temple, the wooden statue of the goddess still watches the room. According to temple history, that statue survived the 1906 earthquake and the fires that followed. The city burned for days. Entire neighborhoods vanished. Yet somehow the statue endured.\n\nStep into the main hall and look upward. The ceiling is almost black. Not paint. Incense. Decades of it. Thick curls of smoke rising day after day, year after year, leaving a layer of soot over the carved beams. The air carries that same scent even now—sweet, woody, a little sharp in the nose.\n\nAltars crowd the room. Plates of oranges. Sometimes roast pork. Bundles of incense sticks glowing at the tips. These are offerings—gifts for the goddess. A quiet thank-you from families who made it across the Pacific alive. They used to call America \"Gold Mountain.\" A place where fortunes waited in river gravel and mountain streams.\n\nReality was harsher.\n\nChinese miners poured into the Sierra foothills during the Gold Rush. They worked abandoned claims. Rewashed gravel others had thrown aside. Patient work. Skilled work. But they faced the Foreign Miners Tax, a fee designed specifically to push them out. Violence followed too. Miners chased out of camps. Tools stolen. Entire communities driven away.\n\nSo many came back to San Francisco. And many of them came here—to this temple—to ask the goddess what to do next.\n\nNear the altar you’ll sometimes see a bundle of thin wooden sticks in a container. Worshippers kneel, shake the bundle, and let one stick fall. Each stick carries a number tied to a written fortune. A question asked of the goddess. Should I travel? Start a business? Trust this partner? Return home?\n\nNow step back outside in your mind to this street—Waverly Place.\n\nIn the late 1800s it picked up a nickname: Fifteen Cent Street. Sailors from ships anchored in the bay wandered up here looking for cheap entertainment. Fifteen cents bought a quick thrill somewhere along this block. Not exactly the spiritual side of Chinatown.\n\nLook around the buildings while we’re here. This stretch is famous as the Street of Painted Balconies. The woodwork comes from Cantonese design traditions—carved rails, layered balconies, bright colors meant to stand out in tight streets like this one.\n\nAnd just a few steps away, the edge of the Barbary Coast began. That district ran wild in the late 1800s. Gambling halls. Dance halls. And opium dens operating quietly behind unmarked doors. Sailors, miners, drifters, fortune hunters—all colliding in a boomtown that barely slept.\n\nChinatown itself wasn’t spared the violence of that era.\n\nIn 1877, anti-Chinese race riots exploded across San Francisco. Mobs swept through parts of the city targeting Chinese businesses and residents. Windows smashed. Shops looted. Fear spread quickly through these narrow streets.\n\nLater came the Tong wars—conflicts between rival Chinese associations. Real gunfights in alleyways. Assassinations carried out in crowded blocks. One of the most infamous figures, the gangster Little Pete, was killed nearby in 1897.\n\nAll of that chaos unfolded within a few steps of this quiet temple.\n\nAnd yet, up here above the street, the bell still rings. The bronze bell installed when the temple opened in 1852. Same metal. Same purpose.\n\nWhen it sounds, the noise floats down into Chinatown’s busiest streets—past produce markets, herbal shops, tourists, delivery trucks. A sound that has been echoing here since the very first years of San Francisco’s boomtown days.\n\nHundreds of red lanterns glow softly inside the temple now, filtering through the incense haze. People still climb those stairs with questions. Still light incense. Still shake the divination sticks.\n\nAnd still thank Mazu for guiding them safely across the water.",
+      "narration_audio": "audio/stops/tin-how-temple.m4a",
+      "name_audio": "audio/stop_names/tin-how-temple.m4a",
+      "images": []
+    }
+  ],
+  "legs": [
+    {
+      "from_poi_id": "portsmouth-square-park",
+      "to_poi_id": "transamerica-pyramid",
+      "distance_km": 0.25,
+      "duration_min": 3,
+      "summary": "",
+      "polyline": "qxteF`gbjVPC@ABE@??A@?@?F?J@_wteFtfbjVBODGuvteF|ebjVEm@B?AA?GC_@AMAOCUAOIsAEe@AQC_@?IE@?AI[mxteFnzajVG@g@FQ@"
+    },
+    {
+      "from_poi_id": "transamerica-pyramid",
+      "to_poi_id": "belli-building",
+      "distance_km": 0.11,
+      "duration_min": 1,
+      "summary": "",
+      "polyline": "ozteFzzajVC?A@q@HA?C?E??A]D?DQBM@Q?C@c@DC@"
+    },
+    {
+      "from_poi_id": "belli-building",
+      "to_poi_id": "golden-era-building",
+      "distance_km": 0.0,
+      "duration_min": 0,
+      "summary": "",
+      "polyline": "o`ueF`|ajVA?"
+    },
+    {
+      "from_poi_id": "golden-era-building",
+      "to_poi_id": "hotaling-pl",
+      "distance_km": 0.09,
+      "duration_min": 1,
+      "summary": "",
+      "polyline": "q`ueF`|ajVq@HC@E?mbueFl|ajVAUGaAAE"
+    },
+    {
+      "from_poi_id": "hotaling-pl",
+      "to_poi_id": "hotaling-building",
+      "distance_km": 0.01,
+      "duration_min": 0,
+      "summary": "",
+      "polyline": "ybueFjyajVAMAS"
+    },
+    {
+      "from_poi_id": "hotaling-building",
+      "to_poi_id": "comstock-saloon",
+      "distance_km": 0.27,
+      "duration_min": 4,
+      "summary": "",
+      "polyline": "}bueFhxajV@R@H?F@DF`A@T@?B^A?@J@V@D@TBV?B@P@P@A?@Fz@AB?@qaueFncbjVOX?GGHYf@KNABKRIL@?a@h@EDU\\"
+    },
+    {
+      "from_poi_id": "comstock-saloon",
+      "to_poi_id": "tin-how-temple",
+      "distance_km": 0.42,
+      "duration_min": 7,
+      "summary": "",
+      "polyline": "cfueFvibjVGLkfueFdjbjV@PBPDl@?DF|@?VBL?BB^?DB?@VieueFbrbjVl@IPAj@GJC`@ETCn@IJAr@Kb@EDA_{teF`pbjV?FHbA?B@N@FqzteFhsbjVRCDAHAb@EHAZE"
+    }
+  ],
+  "greeting_audio": "audio/system/greeting.m4a"
+}
